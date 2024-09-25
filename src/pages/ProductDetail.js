@@ -1,6 +1,6 @@
 import { useParams } from 'react-router-dom';
 import { useState, useEffect } from 'react';
-import { Typography, Container, Button } from '@mui/material';
+import { Typography, Container } from '@mui/material';
 
 function ProductDetail({ addToCart }) {
   const { id } = useParams();
