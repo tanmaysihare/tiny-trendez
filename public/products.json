@@ -1,0 +1,575 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Full Work Koti, Kurta Pajama",
+        "price": 4469,        
+        "size": "1-1.5 years old",
+        "color": "olive green",
+        "item code": "38642080019",
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "full work koti, kurta pajama for 1-1.5 years old color olive green fabric cotton mixed"
+      },
+      {
+        "id": 2,
+        "name": "Full Work Koti, Kurta Pajama",
+        "price": 4469,        
+        "size": "1-1.5 years old",
+        "color": "teal green",
+        "imageUrl": "https://i.imgur.com/2mYGwXW.png",
+        "description": "full work koti, kurta pajama for 1-1.5 years old color olive green fabric cotton mixed"
+      },
+      {
+        "id": 3,
+        "name": "Full Work Koti, Kurta Pajama",
+        "price": 4469,        
+        "size": "1-1.5 years old",
+        "color": "navy blue",
+        "imageUrl": "https://i.imgur.com/VICaj95.png",
+        "description": "full work koti, kurta pajama for 1-1.5 years old color olive green fabric cotton mixed"
+      },
+      {
+        "id": 4,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://i.imgur.com/3LBhpsC.jpg",
+        "description": "This is the description for Product 2"
+      }
+      ,
+      {
+        "id": 5,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://i.imgur.com/mF3v0di.jpg",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 6,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://i.imgur.com/S7baVHZ.jpg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 7,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      }
+      ,
+      {
+        "id": 8,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 9,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 10,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      }
+      ,
+      {
+        "id": 11,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 12,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 13,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 14,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 15,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 16,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 17,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 18,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 19,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 20,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 21,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 22,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 23,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 24,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 25,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 26,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 27,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 28,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 29,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 30,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 31,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 32,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 33,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 34,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 35,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 36,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 37,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id":  38,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 39,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 40,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 41,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 42,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 43,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 44,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 45,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 46,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 47,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 48,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 49,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 50,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 51,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 52,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 53,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 54,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 55,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 56,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 57,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 58,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 59,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 60,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 61,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 62,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 63,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 64,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 65,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 66,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 67,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 68,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 69,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 70,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 71,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 72,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 73,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 74,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 75,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 76,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 77,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 78,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      },
+      {
+        "id": 79,
+        "name": "Product 2",
+        "price": 200,
+        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
+        "description": "This is the description for Product 2"
+      },
+      {
+        "id": 80,
+        "name": "Product 1",
+        "price": 100,
+        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "description": "This is the description for Product 1"
+      }
+    ]
+  }
+  
