@@ -34,7 +34,7 @@ function Home({ addToCart }) {
               </Typography>
               <Typography variant="body2" color="secondary" sx={{ m: 1 }}>
                 MRP: ₹{product.price} <br />
-                After 79% Off: ₹{(product.price * 0.2015).toFixed(2)}
+                After {product.discount} Off: ₹{(product.price * product.discounted_price).toFixed(2)}
               </Typography>
               <Button component={Link} to={`/product/${product.id}`} variant="contained">
                 View Details

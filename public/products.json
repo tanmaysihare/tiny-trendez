@@ -3,7 +3,9 @@
       {
         "id": 1,
         "name": "Full Work Koti, Kurta Pajama",
-        "price": 4469,        
+        "price": 4469,  
+        "discount": "65%",
+        "discounted_price": 0.2015,      
         "size": "1-1.5 years old",
         "color": "olive green",
         "item code": "38642080019",
@@ -13,563 +15,303 @@
       {
         "id": 2,
         "name": "Full Work Koti, Kurta Pajama",
-        "price": 4469,        
+        "price": 4469,  
+        "discount": "65%",
+        "discounted_price": 0.2015,      
         "size": "1-1.5 years old",
         "color": "teal green",
+        "item code": "38642080019",
         "imageUrl": "https://i.imgur.com/2mYGwXW.png",
         "description": "full work koti, kurta pajama for 1-1.5 years old color olive green fabric cotton mixed"
       },
       {
         "id": 3,
         "name": "Full Work Koti, Kurta Pajama",
-        "price": 4469,        
+        "price": 4469,     
+        "discount": "65%",
+        "discounted_price": 0.2015,   
         "size": "1-1.5 years old",
         "color": "navy blue",
+        "item code": "38642080019",
         "imageUrl": "https://i.imgur.com/VICaj95.png",
         "description": "full work koti, kurta pajama for 1-1.5 years old color olive green fabric cotton mixed"
       },
       {
         "id": 4,
-        "name": "Product 2",
-        "price": 200,
+        "name": "Coat Pant with t-shirt",
+        "price": 2999,
+        "discount": "72%",
+        "discounted_price": 0.28,
+        "size": "18",
+        "color": "black pant",
+        "item code": "38652137850",
         "imageUrl": "https://i.imgur.com/3LBhpsC.jpg",
-        "description": "This is the description for Product 2"
+        "description": "Fancy Coat Pant with t-shirt gold framework on coat with one color pant "
       }
       ,
       {
         "id": 5,
-        "name": "Product 2",
-        "price": 200,
+        "name": "Coat Pant with t-shirt",
+        "price": 2999,
+        "discount": "72%",
+        "discounted_price": 0.28,
+        "size": "16",
+        "color": "dark green pant",
+        "item code": "38652137850",
         "imageUrl": "https://i.imgur.com/mF3v0di.jpg",
-        "description": "This is the description for Product 2"
+        "description": "Fancy Coat Pant with t-shirt gold framework on coat with one color pant "
       },
       {
         "id": 6,
-        "name": "Product 1",
-        "price": 100,
+        "name": "Coat Pant with t-shirt",
+        "price": 2999,
+        "discount": "72%",
+        "discounted_price": 0.28,
+        "size": "20",
+        "color": "brown pant",
+        "item code": "38652137850",
         "imageUrl": "https://i.imgur.com/S7baVHZ.jpg",
-        "description": "This is the description for Product 1"
+         "description": "Fancy Coat Pant with t-shirt gold framework on coat with one color pant "
       },
       {
         "id": 7,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
+        "name": "Natu-Natu kid half-shirt set",
+        "price": 2149,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "16",
+        "color": "Black & White",
+        "item code": "38616550965",
+        "imageUrl": "https://i.imgur.com/dMOjuRp.jpg",
+        "description": "Natu-Natu kid half-shirt set with white and black color combo"
       }
       ,
       {
         "id": 8,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
+        "name": "Natu-Natu kid half-shirt set",
+        "price": 2149,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "18",
+        "color": "Black & White",
+        "item code": "38616550965",
+        "imageUrl": "https://i.imgur.com/dMOjuRp.jpg",
+        "description": "Natu-Natu kid half-shirt set with white and black color combo"
       },
       {
         "id": 9,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
+        "name": "Natu-Natu kid half-shirt set",
+        "price": 2149,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "20",
+        "color": "Black & White",
+        "item code": "38616550965",
+        "imageUrl": "https://i.imgur.com/dMOjuRp.jpg",
+        "description": "Natu-Natu kid half-shirt set with white and black color combo"
       },
       {
         "id": 10,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
+        "name": "Fancy Frock 141",
+        "price": 1969,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "18",
+        "color": "Pink",
+        "imageUrl": "https://i.imgur.com/qn72tJs.png",
+        "description": "One shoulder fancy frock for girls in pink color with super high quality & soft fabric"
       }
       ,
       {
         "id": 11,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
+       "name": "Fancy Frock 141",
+        "price": 1969,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "18",
+        "color": "blue",
+        "imageUrl": "https://i.imgur.com/eNMuOwW.jpg",
+        "description": "One shoulder fancy frock for girls in blue color with super high quality & soft fabric"
       },
       {
         "id": 12,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
+       "name": "Fancy Frock 141",
+        "price": 1969,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "18",
+        "color": "white",
+        "imageUrl": "https://i.imgur.com/h4VfrFd.png",
+        "description": "One shoulder fancy frock for girls in white color with super high quality & soft fabric"
       },
       {
         "id": 13,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
+        "name": "Fancy Frock 141",
+        "price": 1969,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "18",
+        "color": "red",
+        "imageUrl": "https://i.imgur.com/UqjQeeW.png",
+        "description": "One shoulder fancy frock for girls in red color with super high quality & soft fabric"
       },
       {
         "id": 14,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
+       "name": "Fancy Frock 141",
+        "price": 1969,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "18",
+        "color": "yellow",
+        "imageUrl": "https://i.imgur.com/jLCuVYE.jpg",
+        "description": "One shoulder fancy frock for girls in yellow color with super high quality & soft fabric"
       },
       {
         "id": 15,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
+        "name": "Fancy Frock 136",
+        "price": 3409,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "18",
+        "color": "silver",
+        "item code":"38659774855",
+        "imageUrl": "https://i.imgur.com/h54pNUp.jpg",
+        "description": "fancy frock strap shoulder for girls in silver color with super high quality & soft imported fabric"
       },
       {
         "id": 16,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
+        "name": "Fancy Frock 136",
+        "price": 3409,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "18",
+        "color": "golden-yellow",
+        "item code":"38659774855",
+        "imageUrl": "https://i.imgur.com/CKWDBCt.jpg",
+        "description": "fancy frock strap shoulder for girls in silver color with super high quality & soft imported fabric"
       },
       {
         "id": 17,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
+        "name": "Fancy Frock 179",
+        "price": 3069,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "18",
+        "color": "peach",
+        "item code":"38628646597",
+        "imageUrl": "https://i.imgur.com/wiqztsA.png",
+        "description": "fancy frock with broad skirt and rose head on top with peach color and super high quality & soft imported fabric"
       },
       {
         "id": 18,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
+        "name": "Fancy Frock 179",
+        "price": 3069,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "18",
+        "color": "pink",
+        "item code":"38628646597",
+        "imageUrl": "https://i.imgur.com/t6obcv5.jpg",
+        "description": "fancy frock with broad skirt and rose head on top with peach color and super high quality & soft imported fabric"
       },
       {
         "id": 19,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
+        "name": "Fancy Frock 116",
+        "price": 3409,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "18",
+        "color": "pink-white",
+        "item code":"38657726299",
+        "imageUrl": "https://i.imgur.com/u2CgT5i.jpg",
+        "description": "fancy frock with new design with pink and white color and super high quality & soft imported fabric"
       },
       {
         "id": 20,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
+        "name": "Fancy Frock 116",
+        "price": 3409,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "18",
+        "color": "white",
+        "item code":"38657726299",
+        "imageUrl": "https://i.imgur.com/UVmDLyd.png",
+        "description": "fancy frock with new design with pink and white color and super high quality & soft imported fabric"
       },
       {
         "id": 21,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
+        "name": "Fancy Frock 116",
+        "price": 3409,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "18",
+        "color": "blue-white",
+        "item code":"38657726299",
+        "imageUrl": "https://i.imgur.com/EugtZ0m.png",
+        "description": "fancy frock with new design with pink and white color and super high quality & soft imported fabric"
       },
       {
         "id": 22,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
+        "name": "Shirt-Pant set KH1113",
+        "price": 1839,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "18",
+        "color": "white-green",
+        "item code":"38675474058",
+        "imageUrl": "https://i.imgur.com/Ciuj9SY.jpg",
+        "description": "shirt-Pant set with white theme and super high quality & soft imported fabric"
       },
       {
         "id": 23,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
+        "name": "Shirt-Pant set KH1113",
+        "price": 1839,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "18",
+        "color": "white-black",
+        "item code":"38675474058",
+        "imageUrl": "https://i.imgur.com/yFHhkWV.jpg",
+        "description": "shirt-Pant set with white theme and super high quality & soft imported fabric"
       },
       {
         "id": 24,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
+        "name": "Shirt-Pant set KH1113",
+        "price": 1839,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "18",
+        "color": "white-pink",
+        "item code":"38675474058",
+        "imageUrl": "https://i.imgur.com/r0V8NUc.jpg",
+        "description": "shirt-Pant set with white theme and super high quality & soft imported fabric"
       },
       {
         "id": 25,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
+        "name": "T-shirt set 7032",
+        "price": 1879,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "18",
+        "color": "green",
+        "item code":"386394246300",
+        "imageUrl": "https://i.imgur.com/z2yEJ3F.jpg",
+        "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       },
       {
         "id": 26,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 27,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
-      },
-      {
-        "id": 28,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 29,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 30,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
-      },
-      {
-        "id": 31,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 32,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 33,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
-      },
-      {
-        "id": 34,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 35,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 36,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
-      },
-      {
-        "id": 37,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id":  38,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 39,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
-      },
-      {
-        "id": 40,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 41,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 42,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
-      },
-      {
-        "id": 43,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 44,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 45,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
-      },
-      {
-        "id": 46,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 47,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 48,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
-      },
-      {
-        "id": 49,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 50,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 51,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
-      },
-      {
-        "id": 52,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 53,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 54,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
-      },
-      {
-        "id": 55,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 56,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 57,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
-      },
-      {
-        "id": 58,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 59,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 60,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
-      },
-      {
-        "id": 61,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 62,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 63,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
-      },
-      {
-        "id": 64,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 65,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 66,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
-      },
-      {
-        "id": 67,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 68,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 69,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
-      },
-      {
-        "id": 70,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 71,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 72,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
-      },
-      {
-        "id": 73,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 74,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 75,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
-      },
-      {
-        "id": 76,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 77,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 78,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
-      },
-      {
-        "id": 79,
-        "name": "Product 2",
-        "price": 200,
-        "imageUrl": "https://photos.app.goo.gl/Mgtp4G7z9FZKfKUP9",
-        "description": "This is the description for Product 2"
-      },
-      {
-        "id": 80,
-        "name": "Product 1",
-        "price": 100,
-        "imageUrl": "https://imgur.com/rEBZItN.jpeg",
-        "description": "This is the description for Product 1"
+        "name": "T-shirt set 7031",
+        "price": 1879,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "18",
+        "color": "red",
+        "item code":"3868540104",
+        "imageUrl": "https://i.imgur.com/6k5vOoD.jpg",
+        "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       }
+     
+      
     ]
   }
   

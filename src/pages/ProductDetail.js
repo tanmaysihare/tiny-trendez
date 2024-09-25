@@ -24,7 +24,7 @@ function ProductDetail({ addToCart }) {
     <Container sx={{ mt: 2 }} >
       <Typography variant="h3" color='primary'>{product.name}</Typography>
       <Typography variant="h6" color='secondary'>Mrp: {product.price} /- , color : {product.color}</Typography>
-      <Typography variant='h6' color='secondary'>for {product.size}</Typography>
+      <Typography variant='h6' color='secondary'>Size {product.size}</Typography>
       <img src={product.imageUrl} alt={product.name} style={{ maxWidth: '100%' }} />
       <Typography variant='h4' color='secondary' sx={{ mb: 4 }}>{product.description}</Typography>
      {/*<Button variant="contained" color="primary" sx={{ mt: 4 }} onClick={() => addToCart(product)}>Add to cart</Button>*/}
