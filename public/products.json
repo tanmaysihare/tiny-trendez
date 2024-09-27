@@ -3,6 +3,7 @@
       {
         "id": 1,
         "name": "Full Work Koti, Kurta Pajama",
+        "category": "boys",
         "price": 4469,  
         "discount": "80%",
         "discounted_price": 0.2015,      
@@ -15,6 +16,7 @@
       {
         "id": 2,
         "name": "Full Work Koti, Kurta Pajama",
+        "category": "boys",
         "price": 4469,  
         "discount": "80%",
         "discounted_price": 0.2015,      
@@ -27,6 +29,7 @@
       {
         "id": 3,
         "name": "Full Work Koti, Kurta Pajama",
+        "category": "boys",
         "price": 4469,     
         "discount": "80%",
         "discounted_price": 0.2015,   
@@ -39,6 +42,7 @@
       {
         "id": 4,
         "name": "Coat Pant with t-shirt",
+        "category": "boys",
         "price": 2999,
         "discount": "72%",
         "discounted_price": 0.28,
@@ -52,6 +56,7 @@
       {
         "id": 5,
         "name": "Coat Pant with t-shirt",
+        "category": "boys",
         "price": 2999,
         "discount": "72%",
         "discounted_price": 0.28,
@@ -64,6 +69,7 @@
       {
         "id": 6,
         "name": "Coat Pant with t-shirt",
+        "category": "boys",
         "price": 2999,
         "discount": "72%",
         "discounted_price": 0.28,
@@ -76,6 +82,7 @@
       {
         "id": 7,
         "name": "Natu-Natu kid half-shirt set",
+        "category": "boys",
         "price": 2149,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -89,6 +96,7 @@
       {
         "id": 8,
         "name": "Natu-Natu kid half-shirt set",
+        "category": "boys",
         "price": 2149,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -101,6 +109,7 @@
       {
         "id": 9,
         "name": "Natu-Natu kid half-shirt set",
+        "category": "boys",
         "price": 2149,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -113,6 +122,7 @@
       {
         "id": 10,
         "name": "Fancy Frock 141",
+        "category": "girls",
         "price": 1969,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -125,6 +135,7 @@
       {
         "id": 11,
        "name": "Fancy Frock 141",
+       "category": "girls",
         "price": 1969,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -136,6 +147,7 @@
       {
         "id": 12,
        "name": "Fancy Frock 141",
+       "category": "girls",
         "price": 1969,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -147,6 +159,7 @@
       {
         "id": 13,
         "name": "Fancy Frock 141",
+        "category": "girls",
         "price": 1969,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -158,6 +171,7 @@
       {
         "id": 14,
        "name": "Fancy Frock 141",
+       "category": "girls",
         "price": 1969,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -169,6 +183,7 @@
       {
         "id": 15,
         "name": "Fancy Frock 136",
+        "category": "girls",
         "price": 3409,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -181,6 +196,7 @@
       {
         "id": 16,
         "name": "Fancy Frock 136",
+        "category": "girls",
         "price": 3409,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -193,6 +209,7 @@
       {
         "id": 17,
         "name": "Fancy Frock 179",
+        "category": "girls",
         "price": 3069,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -205,6 +222,7 @@
       {
         "id": 18,
         "name": "Fancy Frock 179",
+        "category": "girls",
         "price": 3069,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -217,6 +235,7 @@
       {
         "id": 19,
         "name": "Fancy Frock 116",
+        "category": "girls",
         "price": 3409,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -229,6 +248,7 @@
       {
         "id": 20,
         "name": "Fancy Frock 116",
+        "category": "girls",
         "price": 3409,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -241,6 +261,7 @@
       {
         "id": 21,
         "name": "Fancy Frock 116",
+        "category": "girls",
         "price": 3409,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -253,6 +274,7 @@
       {
         "id": 22,
         "name": "Shirt-Pant set KH1113",
+        "category": "boys",
         "price": 1839,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -265,6 +287,7 @@
       {
         "id": 23,
         "name": "Shirt-Pant set KH1113",
+        "category": "boys",
         "price": 1839,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -277,6 +300,7 @@
       {
         "id": 24,
         "name": "Shirt-Pant set KH1113",
+        "category": "boys",
         "price": 1839,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -289,6 +313,7 @@
       {
         "id": 25,
         "name": "T-shirt set 7032",
+        "category": "boys",
         "price": 1879,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -301,6 +326,7 @@
       {
         "id": 26,
         "name": "T-shirt set 7031",
+        "category": "boys",
         "price": 1879,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -313,6 +339,7 @@
       {
         "id": 27,
         "name": "Frock suit set 219",
+        "category": "girls",
         "price": 1499,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -325,6 +352,7 @@
       {
         "id": 28,
         "name": "Frock suit set 219",
+        "category": "girls",
         "price": 1499,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -337,6 +365,7 @@
       {
         "id": 29,
         "name": "Frock suit set 219",
+        "category": "girls",
         "price": 1499,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -349,6 +378,7 @@
       {
         "id": 30,
         "name": "Frock suit set 219",
+        "category": "girls",
         "price": 1499,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -361,6 +391,7 @@
       {
         "id": 31,
         "name": "Frock suit set 219",
+        "category": "girls",
         "price": 1499,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -373,6 +404,7 @@
       {
         "id": 32,
         "name": "Frock suit set 219",
+        "category": "girls",
         "price": 1499,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -385,6 +417,7 @@
       {
         "id": 33,
         "name": "Modi Kurta set 9211",
+        "category": "boys",
         "price": 2319,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -397,6 +430,7 @@
       {
         "id": 34,
         "name": "Modi Kurta set 9211",
+        "category": "boys",
         "price": 2319,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -409,6 +443,7 @@
       {
         "id": 35,
         "name": "Modi Kurta set 9211",
+        "category": "boys",
         "price": 2319,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -421,6 +456,7 @@
       {
         "id": 36,
         "name": "Koti Kurta set 6977",
+        "category": "boys",
         "price": 2899,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -433,6 +469,7 @@
       {
         "id": 37,
         "name": "Koti Kurta set 6977",
+        "category": "boys",
         "price": 2899,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -445,6 +482,7 @@
       {
         "id": 38,
         "name": "Koti Kurta set 6977",
+        "category": "boys",
         "price": 2899,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -457,6 +495,7 @@
       {
         "id": 39,
         "name": "Modi Kurta set 4625",
+        "category": "boys",
         "price": 2899,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -469,6 +508,7 @@
       {
         "id": 40,
         "name": "Modi Kurta set 4625",
+        "category": "boys",
         "price": 2899,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -481,6 +521,7 @@
       {
         "id": 41,
         "name": "Modi Kurta set 4625",
+        "category": "boys",
         "price": 2899,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -493,6 +534,7 @@
       {
         "id": 42,
         "name": "Shirt Suite set 6710",
+        "category": "boys",
         "price": 1909,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -505,6 +547,7 @@
       {
         "id": 43,
         "name": "Shirt Suite set 6710",
+        "category": "boys",
         "price": 1909,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -517,6 +560,7 @@
       {
         "id": 44,
         "name": "Shirt Suite set 6710",
+        "category": "boys",
         "price": 1909,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -529,6 +573,7 @@
       {
         "id": 45,
         "name": "T-shirt set SPWEFRN",
+        "category": "boys",
         "price": 619,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -541,6 +586,7 @@
       {
         "id": 46,
         "name": "shirt set SP5109",
+        "category": "boys",
         "price": 649,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -553,6 +599,7 @@
       {
         "id": 47,
         "name": "shirt set SP4103",
+        "category": "boys",
         "price": 619,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -565,6 +612,7 @@
       {
         "id": 48,
         "name": "shirt set SP4103",
+        "category": "boys",
         "price": 619,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -577,6 +625,7 @@
       {
         "id": 49,
         "name": "shirt set SP5109",
+        "category": "boys",
         "price": 649,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -589,6 +638,7 @@
       {
         "id": 50,
         "name": "T-shirt set SPWEFRN",
+        "category": "boys",
         "price": 619,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -601,6 +651,7 @@
       {
         "id": 51,
         "name": "shirt set SP5109",
+        "category": "boys",
         "price": 649,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -613,6 +664,7 @@
       {
         "id": 52,
         "name": "T-shirt set SPWEFRN",
+        "category": "boys",
         "price": 619,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -625,6 +677,7 @@
       {
         "id": 53,
         "name": "shirt set SP4103",
+        "category": "boys",
         "price": 619,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -637,6 +690,7 @@
       {
         "id": 54,
         "name": "T-shirt set SPWEFRN",
+        "category": "boys",
         "price": 619,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -649,6 +703,7 @@
       {
         "id": 55,
         "name": "shirt set SP5109",
+        "category": "boys",
         "price": 649,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -661,6 +716,7 @@
       {
         "id": 56,
         "name": "shirt set SP4103",
+        "category": "boys",
         "price": 619,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -673,6 +729,7 @@
       {
         "id": 57,
         "name": "T-shirt set SPROCK",
+        "category": "boys",
         "price": 789,
         "discount": "70%",
         "discounted_price": 0.30,
@@ -681,6 +738,214 @@
         "item code":"38684493187",
         "imageUrl": "https://i.imgur.com/4cutv2Z.jpg",
         "description": "Casual wear t-shirt set"
+      },
+      {
+        "id": 58,
+        "name": "Frock suit set Piu",
+        "category": "girls",
+        "price": 1439,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "3",
+        "color": "green",
+        "item code":"38681077548",
+        "imageUrl": "https://i.imgur.com/eSOTHHu.jpg",
+        "description": "Casual wear frock set"
+      },
+      {
+        "id": 59,
+        "name": "Frock suit set Piu",
+        "category": "girls",
+        "price": 1439,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "2",
+        "color": "peach-pink",
+        "item code":"38681077548",
+        "imageUrl": "https://i.imgur.com/uzA8XhR.jpg",
+        "description": "Casual wear frock set"
+      },
+      {
+        "id": 60,
+        "name": "Frock suit set Piu",
+        "category": "girls",
+        "price": 1439,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "1",
+        "color": "cream-yellow",
+        "item code":"38681077548",
+        "imageUrl": "https://i.imgur.com/wLEIUOa.jpg",
+        "description": "Casual wear frock set"
+      },
+      {
+        "id": 61,
+        "name": "Frock suit set Piu",
+        "category": "girls",
+        "price": 1359,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "2",
+        "color": "green",
+        "item code":"38616098695",
+        "imageUrl": "https://i.imgur.com/P6zrKZI.jpg",
+        "description": "Casual wear frock set"
+      },
+      {
+        "id": 62,
+        "name": "Frock suit set Piu",
+        "category": "girls",
+        "price": 1359,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "3",
+        "color": "pink",
+        "item code":"38616098695",
+        "imageUrl": "https://i.imgur.com/psmKy4e.jpg",
+        "description": "Casual wear frock set"
+      },
+      {
+        "id": 63,
+        "name": "Frock suit set Piu",
+        "category": "girls",
+        "price": 1359,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "1",
+        "color": "pink",
+        "item code":"38616098695",
+        "imageUrl": "https://i.imgur.com/zp0BT13.jpg",
+        "description": "Casual wear frock set"
+      },
+      {
+        "id": 64,
+        "name": "Frock suit set Piu",
+        "category": "girls",
+        "price": 1349,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "2",
+        "color": "peach",
+        "item code":"38667216698",
+        "imageUrl": "https://i.imgur.com/ArBuoOk.jpg",
+        "description": "Casual wear frock set"
+      },
+      {
+        "id": 65,
+        "name": "Frock suit set Piu",
+        "category": "girls",
+        "price": 1349,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "1",
+        "color": "pink",
+        "item code":"38667216698",
+        "imageUrl": "https://i.imgur.com/UhmtFVR.jpg",
+        "description": "Casual wear frock set"
+      },
+      {
+        "id": 66,
+        "name": "Frock suit set Piu",
+        "category": "girls",
+        "price": 1349,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "3",
+        "color": "blue",
+        "item code":"38667216698",
+        "imageUrl": "https://i.imgur.com/a90T6fP.jpg",
+        "description": "Casual wear frock set"
+      },
+      {
+        "id": 67,
+        "name": "boy jump suit set",
+        "category": "boys",
+        "price": 2069,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "2",
+        "color": "Navy-golden",
+        "item code":"38684752439",
+        "imageUrl": "https://i.imgur.com/nl7P6e1.png",
+        "description": "Casual wear jump suit set"
+      },
+      {
+        "id": 68,
+        "name": "boy jump suit set",
+        "category": "boys",
+        "price": 2069,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "1",
+        "color": "Navy-golden",
+        "item code":"38684752439",
+        "imageUrl": "https://i.imgur.com/2TlP5YC.png",
+        "description": "Casual wear jump suit set"
+      },
+      {
+        "id": 69,
+        "name": "boy jump suit set",
+        "category": "boys",
+        "price": 2069,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "0",
+        "color": "Navy-golden",
+        "item code":"38684752439",
+        "imageUrl": "https://i.imgur.com/nl7P6e1.png",
+        "description": "Casual wear jump suit set"
+      },
+      {
+        "id": 70,
+        "name": "girls top suit set",
+        "category": "girls",
+        "price": 1909,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "0",
+        "color": "peach",
+        "item code":"38669122861",
+        "imageUrl": "https://i.imgur.com/eqYsLZE.jpg",
+        "description": "Casual wear jump suit set"
+      },
+      {
+        "id": 71,
+        "name": "girls top suit set",
+        "category": "girls",
+        "price": 1909,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "0",
+        "color": "green",
+        "item code":"38669122861",
+        "imageUrl": "https://i.imgur.com/5wi311g.jpg",
+        "description": "Casual wear jump suit set"
+      },
+      {
+        "id": 72,
+        "name": "girls top suit set",
+        "category": "girls",
+        "price": 1909,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "0",
+        "color": "blue",
+        "item code":"38669122861",
+        "imageUrl": "https://i.imgur.com/arZ25gQ.jpg",
+        "description": "Casual wear jump suit set"
+      },
+      {
+        "id": 73,
+        "name": "girls top suit set",
+        "category": "girls",
+        "price": 1909,
+        "discount": "70%",
+        "discounted_price": 0.30,
+        "size": "0",
+        "color": "violet",
+        "item code":"38669122861",
+        "imageUrl": "https://i.imgur.com/38FRQud.jpg",
+        "description": "Casual wear jump suit set"
       }
      
       

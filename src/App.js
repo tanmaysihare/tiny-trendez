@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import { Routes, Route, Link } from 'react-router-dom';
 import Home from './pages/Home';
+import Boys from './pages/Boys';
+import Girls from './pages/Girls';
 import ProductDetail from './pages/ProductDetail';
 import Cart from './pages/Cart';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
@@ -9,6 +11,8 @@ import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import IconButton from '@mui/material/IconButton';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
+import BoyIcon from '@mui/icons-material/Boy';
+import GirlIcon from '@mui/icons-material/Girl';
 import HomeIcon from '@mui/icons-material/Home';
 import { Button } from '@mui/material';
 import { pink } from '@mui/material/colors';
@@ -84,6 +88,26 @@ function App() {
             Home
           </Button>
 
+          {/* Boys Button */}
+          <Button
+            component={Link}
+            to="/boys"
+            startIcon={<BoyIcon />}
+            color="inherit"
+          >
+            Boys
+          </Button>
+
+          {/* Girls Button */}
+          <Button
+            component={Link}
+            to="/girls"
+            startIcon={<GirlIcon />}
+            color="inherit"
+          >
+            Girls
+          </Button>
+
           {/* Cart Button */}
           <IconButton
             component={Link}
@@ -99,6 +123,8 @@ function App() {
 
       <Routes>
         <Route exact path="/" element={<Home addToCart={addToCart} />} />
+        <Route path="/boys" element={<Boys addToCart={addToCart} />} />
+        <Route path="/girls" element={<Girls addToCart={addToCart} />} />
         <Route path="/product/:id" element={<ProductDetail addToCart={addToCart} />} />
         <Route
           path="/cart"
