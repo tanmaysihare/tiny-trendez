@@ -39,46 +39,7 @@
         "imageUrl": "https://i.imgur.com/VICaj95.png",
         "description": "full work koti, kurta pajama for 1-1.5 years old color olive green fabric cotton mixed"
       },
-      {
-        "id": 4,
-        "name": "Coat Pant with t-shirt",
-        "category": "boys",
-        "price": 2999,
-        "discount": "72%",
-        "discounted_price": 0.28,
-        "size": "18",
-        "color": "black pant",
-        "item code": "38652137850",
-        "imageUrl": "https://i.imgur.com/3LBhpsC.jpg",
-        "description": "Fancy Coat Pant with t-shirt gold framework on coat with one color pant "
-      }
-      ,
-      {
-        "id": 5,
-        "name": "Coat Pant with t-shirt",
-        "category": "boys",
-        "price": 2999,
-        "discount": "72%",
-        "discounted_price": 0.28,
-        "size": "16",
-        "color": "dark green pant",
-        "item code": "38652137850",
-        "imageUrl": "https://i.imgur.com/mF3v0di.jpg",
-        "description": "Fancy Coat Pant with t-shirt gold framework on coat with one color pant "
-      },
-      {
-        "id": 6,
-        "name": "Coat Pant with t-shirt",
-        "category": "boys",
-        "price": 2999,
-        "discount": "72%",
-        "discounted_price": 0.28,
-        "size": "20",
-        "color": "brown pant",
-        "item code": "38652137850",
-        "imageUrl": "https://i.imgur.com/S7baVHZ.jpg",
-         "description": "Fancy Coat Pant with t-shirt gold framework on coat with one color pant "
-      },
+      
       {
         "id": 7,
         "name": "Natu-Natu kid half-shirt set",
@@ -271,19 +232,7 @@
         "imageUrl": "https://i.imgur.com/EugtZ0m.png",
         "description": "fancy frock with new design with pink and white color and super high quality & soft imported fabric"
       },
-      {
-        "id": 22,
-        "name": "Shirt-Pant set KH1113",
-        "category": "boys",
-        "price": 1839,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "18",
-        "color": "white-green",
-        "item code":"38675474058",
-        "imageUrl": "https://i.imgur.com/Ciuj9SY.jpg",
-        "description": "shirt-Pant set with white theme and super high quality & soft imported fabric"
-      },
+     
       {
         "id": 23,
         "name": "Shirt-Pant set KH1113",

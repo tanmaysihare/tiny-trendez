@@ -30,15 +30,16 @@ function Boys({ addToCart }) {
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
-                {product.name}
+               {product.id}. {product.name} <br/> Size {product.size}
               </Typography>
-              <Typography variant="body2" color="text.secondary" sx={{ m: 1 }}>
+              <Typography variant="body2" color="secondary" sx={{ m: 1 }}>
                 MRP: ₹{product.price} <br />
-                After 70% Off: ₹{(product.price * 0.3).toFixed(2)}
+                After {product.discount} Off: ₹{(product.price * product.discounted_price).toFixed(2)}
               </Typography>
               <Button component={Link} to={`/product/${product.id}`} variant="contained">
                 View Details
               </Button>
+              {/* <Button variant="outlined" onClick={() => addToCart(product)}>Add to Cart</Button> */}
             </CardContent>
           </Card>
         </Grid>
