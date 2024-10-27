@@ -9,7 +9,7 @@
         "discounted_price": 0.2015,      
         "size": "1-1.5 years old",
         "color": "olive green",
-        "item code": "38642080019",
+        "item_code": "38642080019",
         "imageUrl": "https://imgur.com/rEBZItN.jpeg",
         "description": "full work koti, kurta pajama for 1-1.5 years old color olive green fabric cotton mixed"
       },
@@ -22,7 +22,7 @@
         "discounted_price": 0.2015,      
         "size": "1-1.5 years old",
         "color": "teal green",
-        "item code": "38642080019",
+        "item_code": "38642080019",
         "imageUrl": "https://i.imgur.com/2mYGwXW.png",
         "description": "full work koti, kurta pajama for 1-1.5 years old color olive green fabric cotton mixed"
       },
@@ -35,7 +35,7 @@
         "discounted_price": 0.2015,   
         "size": "1-1.5 years old",
         "color": "navy blue",
-        "item code": "38642080019",
+        "item_code": "38642080019",
         "imageUrl": "https://i.imgur.com/VICaj95.png",
         "description": "full work koti, kurta pajama for 1-1.5 years old color olive green fabric cotton mixed"
       },
@@ -49,7 +49,7 @@
         "discounted_price": 0.30,
         "size": "16",
         "color": "Black & White",
-        "item code": "38616550965",
+        "item_code": "38616550965",
         "imageUrl": "https://i.imgur.com/dMOjuRp.jpg",
         "description": "Natu-Natu kid half-shirt set with white and black color combo"
       }
@@ -63,7 +63,7 @@
         "discounted_price": 0.30,
         "size": "18",
         "color": "Black & White",
-        "item code": "38616550965",
+        "item_code": "38616550965",
         "imageUrl": "https://i.imgur.com/dMOjuRp.jpg",
         "description": "Natu-Natu kid half-shirt set with white and black color combo"
       },
@@ -76,7 +76,7 @@
         "discounted_price": 0.30,
         "size": "20",
         "color": "Black & White",
-        "item code": "38616550965",
+        "item_code": "38616550965",
         "imageUrl": "https://i.imgur.com/dMOjuRp.jpg",
         "description": "Natu-Natu kid half-shirt set with white and black color combo"
       },
@@ -150,7 +150,7 @@
         "discounted_price": 0.30,
         "size": "18",
         "color": "silver",
-        "item code":"38659774855",
+        "item_code":"38659774855",
         "imageUrl": "https://i.imgur.com/h54pNUp.jpg",
         "description": "fancy frock strap shoulder for girls in silver color with super high quality & soft imported fabric"
       },
@@ -163,7 +163,7 @@
         "discounted_price": 0.30,
         "size": "18",
         "color": "golden-yellow",
-        "item code":"38659774855",
+        "item_code":"38659774855",
         "imageUrl": "https://i.imgur.com/CKWDBCt.jpg",
         "description": "fancy frock strap shoulder for girls in silver color with super high quality & soft imported fabric"
       },
@@ -189,7 +189,7 @@
         "discounted_price": 0.30,
         "size": "18",
         "color": "pink",
-        "item code":"38628646597",
+        "item_code":"38628646597",
         "imageUrl": "https://i.imgur.com/t6obcv5.jpg",
         "description": "fancy frock with broad skirt and rose head on top with peach color and super high quality & soft imported fabric"
       },
@@ -202,7 +202,7 @@
         "discounted_price": 0.30,
         "size": "18",
         "color": "pink-white",
-        "item code":"38657726299",
+        "item_code":"38657726299",
         "imageUrl": "https://i.imgur.com/u2CgT5i.jpg",
         "description": "fancy frock with new design with pink and white color and super high quality & soft imported fabric"
       },
@@ -215,7 +215,7 @@
         "discounted_price": 0.30,
         "size": "18",
         "color": "white",
-        "item code":"38657726299",
+        "item_code":"38657726299",
         "imageUrl": "https://i.imgur.com/UVmDLyd.png",
         "description": "fancy frock with new design with pink and white color and super high quality & soft imported fabric"
       },
@@ -228,7 +228,7 @@
         "discounted_price": 0.30,
         "size": "18",
         "color": "blue-white",
-        "item code":"38657726299",
+        "item_code":"38657726299",
         "imageUrl": "https://i.imgur.com/EugtZ0m.png",
         "description": "fancy frock with new design with pink and white color and super high quality & soft imported fabric"
       },
@@ -242,7 +242,7 @@
         "discounted_price": 0.30,
         "size": "18",
         "color": "white-black",
-        "item code":"38675474058",
+        "item_code":"38675474058",
         "imageUrl": "https://i.imgur.com/yFHhkWV.jpg",
         "description": "shirt-Pant set with white theme and super high quality & soft imported fabric"
       },
@@ -255,7 +255,7 @@
         "discounted_price": 0.30,
         "size": "18",
         "color": "white-pink",
-        "item code":"38675474058",
+        "item_code":"38675474058",
         "imageUrl": "https://i.imgur.com/r0V8NUc.jpg",
         "description": "shirt-Pant set with white theme and super high quality & soft imported fabric"
       },
@@ -268,7 +268,7 @@
         "discounted_price": 0.30,
         "size": "18",
         "color": "green",
-        "item code":"386394246300",
+        "item_code":"386394246300",
         "imageUrl": "https://i.imgur.com/z2yEJ3F.jpg",
         "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       },
@@ -281,7 +281,7 @@
         "discounted_price": 0.30,
         "size": "18",
         "color": "red",
-        "item code":"3868540104",
+        "item_code":"3868540104",
         "imageUrl": "https://i.imgur.com/6k5vOoD.jpg",
         "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       },
@@ -294,7 +294,7 @@
         "discounted_price": 0.30,
         "size": "1-year-old",
         "color": "Red",
-        "item code":"38639858181",
+        "item_code":"38639858181",
         "imageUrl": "https://i.imgur.com/ydxz7aj.jpg",
         "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       },
@@ -307,7 +307,7 @@
         "discounted_price": 0.30,
         "size": "1-year-old",
         "color": "Blue",
-        "item code":"38639858181",
+        "item_code":"38639858181",
         "imageUrl": "https://i.imgur.com/SYBUFIv.png",
         "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       },
@@ -320,7 +320,7 @@
         "discounted_price": 0.30,
         "size": "1.5-year-old",
         "color": "Red",
-        "item code":"38639858181",
+        "item_code":"38639858181",
         "imageUrl": "https://i.imgur.com/ydxz7aj.jpg",
         "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       },
@@ -333,7 +333,7 @@
         "discounted_price": 0.30,
         "size": "1.5-year-old",
         "color": "Blue",
-        "item code":"38639858181",
+        "item_code":"38639858181",
         "imageUrl": "https://i.imgur.com/SYBUFIv.png",
         "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       },
@@ -346,7 +346,7 @@
         "discounted_price": 0.30,
         "size": "2-year-old",
         "color": "Red",
-        "item code":"38639858181",
+        "item_code":"38639858181",
         "imageUrl": "https://i.imgur.com/ydxz7aj.jpg",
         "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       },
@@ -359,7 +359,7 @@
         "discounted_price": 0.30,
         "size": "2-year-old",
         "color": "Blue",
-        "item code":"38639858181",
+        "item_code":"38639858181",
         "imageUrl": "https://i.imgur.com/SYBUFIv.png",
         "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       },
@@ -372,7 +372,7 @@
         "discounted_price": 0.30,
         "size": "20",
         "color": "magenta",
-        "item code":"38651353021",
+        "item_code":"38651353021",
         "imageUrl": "https://i.imgur.com/ik9QSIA.jpg",
         "description": "Modi Kurta set with thread work and super high quality & soft fabric"
       },
@@ -385,7 +385,7 @@
         "discounted_price": 0.30,
         "size": "16",
         "color": "green",
-        "item code":"38651353021",
+        "item_code":"38651353021",
         "imageUrl": "https://i.imgur.com/el9OxXL.jpg",
         "description": "Modi Kurta set with thread work and super high quality & soft fabric"
       },
@@ -398,7 +398,7 @@
         "discounted_price": 0.30,
         "size": "18",
         "color": "gray",
-        "item code":"38651353021",
+        "item_code":"38651353021",
         "imageUrl": "https://i.imgur.com/HpQnE7b.jpg",
         "description": "Modi Kurta set with thread work and super high quality & soft fabric"
       },
@@ -411,7 +411,7 @@
         "discounted_price": 0.30,
         "size": "20",
         "color": "White",
-        "item code":"38686230934",
+        "item_code":"38686230934",
         "imageUrl": "https://i.imgur.com/YdwZIIp.jpg",
         "description": "Koti Kurta set with thread work on koti and super high quality & soft fabric"
       },
@@ -424,7 +424,7 @@
         "discounted_price": 0.30,
         "size": "18",
         "color": "White",
-        "item code":"38686230934",
+        "item_code":"38686230934",
         "imageUrl": "https://i.imgur.com/YdwZIIp.jpg",
         "description": "Koti Kurta set with thread work on koti and super high quality & soft fabric"
       },
@@ -437,7 +437,7 @@
         "discounted_price": 0.30,
         "size": "16",
         "color": "White",
-        "item code":"38686230934",
+        "item_code":"38686230934",
         "imageUrl": "https://i.imgur.com/YdwZIIp.jpg",
         "description": "Koti Kurta set with thread work on koti and super high quality & soft fabric"
       },
@@ -450,7 +450,7 @@
         "discounted_price": 0.30,
         "size": "18",
         "color": "Blue",
-        "item code":"38631382071",
+        "item_code":"38631382071",
         "imageUrl": "https://i.imgur.com/VhIiLXt.jpg",
         "description": "Kurta set with print work and super high quality & soft fabric"
       },
@@ -463,7 +463,7 @@
         "discounted_price": 0.30,
         "size": "18",
         "color": "pink",
-        "item code":"38631382071",
+        "item_code":"38631382071",
         "imageUrl": "https://i.imgur.com/bEYOPWV.jpg",
         "description": "Kurta set with print work and super high quality & soft fabric"
       },
@@ -476,7 +476,7 @@
         "discounted_price": 0.30,
         "size": "18",
         "color": "White",
-        "item code":"38631382071",
+        "item_code":"38631382071",
         "imageUrl": "https://i.imgur.com/tz6O5z1.jpg",
         "description": "Kurta set with print work and super high quality & soft fabric"
       },
@@ -489,7 +489,7 @@
         "discounted_price": 0.30,
         "size": "0",
         "color": "green",
-        "item code":"38697331162",
+        "item_code":"38697331162",
         "imageUrl": "https://i.imgur.com/5aY3JU3.jpg",
         "description": "Shirt set with print work and super high quality & soft fabric"
       },
@@ -502,7 +502,7 @@
         "discounted_price": 0.30,
         "size": "0",
         "color": "pink",
-        "item code":"38697331162",
+        "item_code":"38697331162",
         "imageUrl": "https://i.imgur.com/gZQ9PI9.jpg",
         "description": "Shirt set with print work and super high quality & soft fabric"
       },
@@ -515,179 +515,11 @@
         "discounted_price": 0.30,
         "size": "0",
         "color": "gold",
-        "item code":"38697331162",
+        "item_code":"38697331162",
         "imageUrl": "https://i.imgur.com/rB78mZD.jpg",
         "description": "Shirt set with print work and super high quality & soft fabric"
       },
-      {
-        "id": 45,
-        "name": "T-shirt set SPWEFRN",
-        "category": "boys",
-        "price": 619,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "0",
-        "color": "pink",
-        "item code":"38661639145",
-        "imageUrl": "https://i.imgur.com/hgU60on.jpg",
-        "description": "Casual wear t-shirt set"
-      },
-      {
-        "id": 46,
-        "name": "shirt set SP5109",
-        "category": "boys",
-        "price": 649,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "0",
-        "color": "lime",
-        "item code":"38667367966",
-        "imageUrl": "https://i.imgur.com/Zv6yMfx.jpg",
-        "description": "Casual wear shirt set"
-      },
-      {
-        "id": 47,
-        "name": "shirt set SP4103",
-        "category": "boys",
-        "price": 619,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "0",
-        "color": "green",
-        "item code":"38632338311",
-        "imageUrl": "https://i.imgur.com/hFRMoCL.jpg",
-        "description": "Casual wear shirt set"
-      },
-      {
-        "id": 48,
-        "name": "shirt set SP4103",
-        "category": "boys",
-        "price": 619,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "0",
-        "color": "brown",
-        "item code":"38632338311",
-        "imageUrl": "https://i.imgur.com/68UikzB.jpg",
-        "description": "Casual wear shirt set"
-      },
-      {
-        "id": 49,
-        "name": "shirt set SP5109",
-        "category": "boys",
-        "price": 649,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "0",
-        "color": "pink",
-        "item code":"38667367966",
-        "imageUrl": "https://i.imgur.com/BgMCLrU.jpg",
-        "description": "Casual wear shirt set"
-      },
-      {
-        "id": 50,
-        "name": "T-shirt set SPWEFRN",
-        "category": "boys",
-        "price": 619,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "0",
-        "color": "red",
-        "item code":"38661639145",
-        "imageUrl": "https://i.imgur.com/0cdqC6J.jpg",
-        "description": "Casual wear t-shirt set"
-      },
-      {
-        "id": 51,
-        "name": "shirt set SP5109",
-        "category": "boys",
-        "price": 649,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "0",
-        "color": "pink",
-        "item code":"38667367966",
-        "imageUrl": "https://i.imgur.com/0NnKbNm.png",
-        "description": "Casual wear shirt set"
-      },
-      {
-        "id": 52,
-        "name": "T-shirt set SPWEFRN",
-        "category": "boys",
-        "price": 619,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "0",
-        "color": "red",
-        "item code":"38661639145",
-        "imageUrl": "https://i.imgur.com/SNtlAzk.jpg",
-        "description": "Casual wear t-shirt set"
-      },
-      {
-        "id": 53,
-        "name": "shirt set SP4103",
-        "category": "boys",
-        "price": 619,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "0",
-        "color": "pink",
-        "item code":"38632338311",
-        "imageUrl": "https://i.imgur.com/nd9jGF2.png",
-        "description": "Casual wear shirt set"
-      },
-      {
-        "id": 54,
-        "name": "T-shirt set SPWEFRN",
-        "category": "boys",
-        "price": 619,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "0",
-        "color": "dark-pink",
-        "item code":"38661639145",
-        "imageUrl": "https://i.imgur.com/ePuR6qz.jpg",
-        "description": "Casual wear t-shirt set"
-      },
-      {
-        "id": 55,
-        "name": "shirt set SP5109",
-        "category": "boys",
-        "price": 649,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "0",
-        "color": "teal green",
-        "item code":"38667367966",
-        "imageUrl": "https://i.imgur.com/BjdOtHg.jpg",
-        "description": "Casual wear shirt set"
-      },
-      {
-        "id": 56,
-        "name": "shirt set SP4103",
-        "category": "boys",
-        "price": 619,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "0",
-        "color": "light burgundy",
-        "item code":"38632338311",
-        "imageUrl": "https://i.imgur.com/TCJdcGQ.jpg",
-        "description": "Casual wear shirt set"
-      },
-      {
-        "id": 57,
-        "name": "T-shirt set SPROCK",
-        "category": "boys",
-        "price": 789,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "0",
-        "color": "pink",
-        "item code":"38684493187",
-        "imageUrl": "https://i.imgur.com/4cutv2Z.jpg",
-        "description": "Casual wear t-shirt set"
-      },
+     
       {
         "id": 58,
         "name": "Frock suit set Piu",
@@ -697,7 +529,7 @@
         "discounted_price": 0.30,
         "size": "3",
         "color": "green",
-        "item code":"38681077548",
+        "item_code":"38681077548",
         "imageUrl": "https://i.imgur.com/eSOTHHu.jpg",
         "description": "Casual wear frock set"
       },
@@ -710,7 +542,7 @@
         "discounted_price": 0.30,
         "size": "2",
         "color": "peach-pink",
-        "item code":"38681077548",
+        "item_code":"38681077548",
         "imageUrl": "https://i.imgur.com/uzA8XhR.jpg",
         "description": "Casual wear frock set"
       },
@@ -723,7 +555,7 @@
         "discounted_price": 0.30,
         "size": "1",
         "color": "cream-yellow",
-        "item code":"38681077548",
+        "item_code":"38681077548",
         "imageUrl": "https://i.imgur.com/wLEIUOa.jpg",
         "description": "Casual wear frock set"
       },
@@ -736,7 +568,7 @@
         "discounted_price": 0.30,
         "size": "2",
         "color": "green",
-        "item code":"38616098695",
+        "item_code":"38616098695",
         "imageUrl": "https://i.imgur.com/P6zrKZI.jpg",
         "description": "Casual wear frock set"
       },
@@ -749,7 +581,7 @@
         "discounted_price": 0.30,
         "size": "3",
         "color": "pink",
-        "item code":"38616098695",
+        "item_code":"38616098695",
         "imageUrl": "https://i.imgur.com/psmKy4e.jpg",
         "description": "Casual wear frock set"
       },
@@ -762,7 +594,7 @@
         "discounted_price": 0.30,
         "size": "1",
         "color": "pink",
-        "item code":"38616098695",
+        "item_code":"38616098695",
         "imageUrl": "https://i.imgur.com/zp0BT13.jpg",
         "description": "Casual wear frock set"
       },
@@ -775,7 +607,7 @@
         "discounted_price": 0.30,
         "size": "2",
         "color": "peach",
-        "item code":"38667216698",
+        "item_code":"38667216698",
         "imageUrl": "https://i.imgur.com/ArBuoOk.jpg",
         "description": "Casual wear frock set"
       },
@@ -788,7 +620,7 @@
         "discounted_price": 0.30,
         "size": "1",
         "color": "pink",
-        "item code":"38667216698",
+        "item_code":"38667216698",
         "imageUrl": "https://i.imgur.com/UhmtFVR.jpg",
         "description": "Casual wear frock set"
       },
@@ -801,7 +633,7 @@
         "discounted_price": 0.30,
         "size": "3",
         "color": "blue",
-        "item code":"38667216698",
+        "item_code":"38667216698",
         "imageUrl": "https://i.imgur.com/a90T6fP.jpg",
         "description": "Casual wear frock set"
       },
@@ -814,7 +646,7 @@
         "discounted_price": 0.30,
         "size": "2",
         "color": "Navy-golden",
-        "item code":"38684752439",
+        "item_code":"38684752439",
         "imageUrl": "https://i.imgur.com/nl7P6e1.png",
         "description": "Casual wear jump suit set"
       },
@@ -827,7 +659,7 @@
         "discounted_price": 0.30,
         "size": "1",
         "color": "Navy-golden",
-        "item code":"38684752439",
+        "item_code":"38684752439",
         "imageUrl": "https://i.imgur.com/2TlP5YC.png",
         "description": "Casual wear jump suit set"
       },
@@ -840,7 +672,7 @@
         "discounted_price": 0.30,
         "size": "0",
         "color": "Navy-golden",
-        "item code":"38684752439",
+        "item_code":"38684752439",
         "imageUrl": "https://i.imgur.com/nl7P6e1.png",
         "description": "Casual wear jump suit set"
       },
@@ -853,7 +685,7 @@
         "discounted_price": 0.30,
         "size": "0",
         "color": "peach",
-        "item code":"38669122861",
+        "item_code":"38669122861",
         "imageUrl": "https://i.imgur.com/eqYsLZE.jpg",
         "description": "Casual wear jump suit set"
       },
@@ -866,7 +698,7 @@
         "discounted_price": 0.30,
         "size": "0",
         "color": "green",
-        "item code":"38669122861",
+        "item_code":"38669122861",
         "imageUrl": "https://i.imgur.com/5wi311g.jpg",
         "description": "Casual wear jump suit set"
       },
@@ -879,7 +711,7 @@
         "discounted_price": 0.30,
         "size": "0",
         "color": "blue",
-        "item code":"38669122861",
+        "item_code":"38669122861",
         "imageUrl": "https://i.imgur.com/arZ25gQ.jpg",
         "description": "Casual wear jump suit set"
       },
@@ -892,7 +724,7 @@
         "discounted_price": 0.30,
         "size": "0",
         "color": "violet",
-        "item code":"38669122861",
+        "item_code":"38669122861",
         "imageUrl": "https://i.imgur.com/38FRQud.jpg",
         "description": "Casual wear jump suit set"
       }

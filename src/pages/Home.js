@@ -30,7 +30,7 @@ function Home({ addToCart }) {
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
-               {product.id}. {product.name} <br/> Size {product.size}
+               {product.id}. {product.name} <br/> Size {product.size} <br/> Item Code : {product.item_code}
               </Typography>
               <Typography variant="body2" color="secondary" sx={{ m: 1 }}>
                 MRP: ₹{product.price} <br />
