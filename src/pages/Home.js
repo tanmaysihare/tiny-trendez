@@ -18,28 +18,44 @@ function Home({ addToCart }) {
   }, []);
 
   return (
-    <Grid container spacing={2} style={{ marginTop: 1, padding: 20, backgroundColor: '#2196f3' }}>
+    <Grid 
+      container 
+      spacing={2} 
+      sx={{ padding: 2, backgroundColor: '#2196f3' }}
+      justifyContent="center"
+    >
       {products.map(product => (
-        <Grid item xs={12} sm={6} md={4} key={product.id}>
-          <Card>
+        <Grid 
+          item 
+          xs={6} // Full width on extra-small screens
+          sm={6}  // Two columns on small screens
+          md={4}  // Three columns on medium screens
+          key={product.id}
+        >
+          <Card sx={{ maxWidth: 345, margin: 'auto' }}>
             <CardMedia
               component="img"
-              height="380"
+              height="180"
               image={product.imageUrl}
               alt={product.name}
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
-               {product.id}. {product.name} <br/> Size {product.size} <br/> Item Code : {product.item_code}
+                {product.name}
               </Typography>
-              <Typography variant="body2" color="secondary" sx={{ m: 1 }}>
+              <Typography variant="body2" color="secondary">
                 MRP: ₹{product.price} <br />
-                After {product.discount} Off: ₹{(product.price * product.discounted_price).toFixed(2)}
+                After {product.discount}Discount Sale Price: ₹{(product.price * product.discounted_price).toFixed(2)}
               </Typography>
-              <Button component={Link} to={`/product/${product.id}`} variant="contained">
+              <Button 
+                component={Link} 
+                to={`/product/${product.id}`} 
+                variant="contained" 
+                color="primary"
+                sx={{ mt: 1 }}
+              >
                 View Details
               </Button>
-              {/* <Button variant="outlined" onClick={() => addToCart(product)}>Add to Cart</Button> */}
             </CardContent>
           </Card>
         </Grid>

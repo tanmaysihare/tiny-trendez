@@ -1,6 +1,16 @@
 import { useParams } from 'react-router-dom';
 import { useState, useEffect } from 'react';
-import { Typography, Container } from '@mui/material';
+import { Typography, Container, Button } from '@mui/material';
+import { Swiper, SwiperSlide } from 'swiper/react';
+import 'swiper/css';
+import 'swiper/css/navigation';
+import 'swiper/css/pagination';
+import SwiperCore from 'swiper';
+import { Navigation, Pagination } from 'swiper/modules';
+import WhatsAppIcon from '@mui/icons-material/WhatsApp';
+
+// Initialize Swiper modules
+SwiperCore.use([Navigation, Pagination]);
 
 function ProductDetail({ addToCart }) {
   const { id } = useParams();
@@ -20,14 +30,38 @@ function ProductDetail({ addToCart }) {
     return <Typography>Loading...</Typography>;
   }
 
+  const whatsappLink = `https://wa.me/7000917851?text=I'm%20interested%20in%20${product.name}%20(${product.size}).%20MRP:%20₹${product.price}%20Sale%20Price:%20₹${product.discounted_price}`;
+
   return (
-    <Container sx={{ mt: 2 }} >
-      <Typography variant="h3" color='primary'>{product.name}</Typography>
-      <Typography variant="h6" color='secondary'>Mrp: {product.price} /- , color : {product.color}</Typography>
-      <Typography variant='h6' color='secondary'>Size {product.size}</Typography>
-      <img src={product.imageUrl} alt={product.name} style={{ maxWidth: '100%' }} />
-      <Typography variant='h4' color='secondary' sx={{ mb: 4 }}>{product.description}</Typography>
-     {/*<Button variant="contained" color="primary" sx={{ mt: 4 }} onClick={() => addToCart(product)}>Add to cart</Button>*/}
+    <Container sx={{ mt: 2 }}>
+      {/* Swiper Carousel for images */}
+      <Swiper navigation pagination={{ clickable: true }} style={{ width: '100%', height: '400px' }}>
+        {product.imageUrls.map((url, index) => (
+          <SwiperSlide key={index}>
+            <img src={url} alt={`${product.name} ${index}`} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+          </SwiperSlide>
+        ))}
+      </Swiper>
+
+      <Typography variant="h3" color="primary">{product.name}</Typography>
+      <Typography variant="h6" color="secondary">
+        MRP: ₹{product.price} /- <br/>
+        After {product.discount}Discount Sale Price: ₹{(product.price * product.discounted_price).toFixed(2)},
+         Color: {product.color}
+      </Typography>
+      <Typography variant="h6" color="primary" sx={{ mt: 2 }}>Size {product.size}</Typography>
+      <Typography variant="h5" color="secondary.secondary" sx={{ mb: 4, mt: 2,textTransform: 'uppercase' }}>{product.description}</Typography>
+      <Button
+        variant="contained"
+        color="success"
+        href={whatsappLink}
+        target="_blank"
+        rel="noopener noreferrer"
+        sx={{ mt: 2,mb: 4 }}
+      > <WhatsAppIcon sx={{ mr: 2 }} />
+        Order on WhatsApp
+       
+      </Button>
     </Container>
   );
 }

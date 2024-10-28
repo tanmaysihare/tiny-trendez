@@ -26,6 +26,7 @@ const theme = createTheme({
     },
     secondary: {
       main: pink[300],
+      secondary: pink[600],
     },
 
   },
@@ -70,13 +71,24 @@ function App() {
                 alt="logo"
                 width="40"
                 height="40"
-                style={{  marginRight: '10px' }}
+                style={{  marginBottom: '10px',marginRight: '10px', paddingBottom: '10px',paddingTop: '10px',borderRadius: '30%', alignContent: 'center', justifyContent: 'center' }} 
               />
             </Link>
-          <Typography variant="h6" component="div"  sx={{ flexGrow: 1 }}>
-            
-            Tiny Trendez
-          </Typography>
+            <Typography
+  variant="h6"  // Default variant
+  component="div"
+  sx={{
+    flexGrow: 1,
+    fontSize: {
+      xs: '1rem',  // Extra-small screens (mobile)
+      sm: '1.25rem',  // Small screens (tablet)
+      md: '1.5rem',  // Medium screens (small laptop)
+      lg: '2rem',  // Large screens (desktop)
+    },
+  }}
+>
+  Tiny Trendez
+</Typography>
 
           {/* Home Button */}
           <Button
@@ -109,15 +121,15 @@ function App() {
           </Button>
 
           {/* Cart Button */}
-          <IconButton
+          {/* <IconButton
             component={Link}
             to="/cart"
             edge="end"
             color="inherit"
             aria-label="cart"
           >
-            <ShoppingCartIcon />
-          </IconButton>
+            <ShoppingCartIcon /> 
+          </IconButton>*/}
         </Toolbar>
       </AppBar>
 

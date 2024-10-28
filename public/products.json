@@ -11,6 +11,11 @@
         "color": "olive green",
         "item_code": "38642080019",
         "imageUrl": "https://imgur.com/rEBZItN.jpeg",
+        "imageUrls": [
+        "https://imgur.com/rEBZItN.jpeg",
+        "https://i.imgur.com/2mYGwXW.png",
+        "https://i.imgur.com/VICaj95.png"
+      ],
         "description": "full work koti, kurta pajama for 1-1.5 years old color olive green fabric cotton mixed"
       },
       {
@@ -24,6 +29,9 @@
         "color": "teal green",
         "item_code": "38642080019",
         "imageUrl": "https://i.imgur.com/2mYGwXW.png",
+        "imageUrls": [
+        "https://imgur.com/rEBZItN.jpeg"
+      ],
         "description": "full work koti, kurta pajama for 1-1.5 years old color olive green fabric cotton mixed"
       },
       {
@@ -37,6 +45,9 @@
         "color": "navy blue",
         "item_code": "38642080019",
         "imageUrl": "https://i.imgur.com/VICaj95.png",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "full work koti, kurta pajama for 1-1.5 years old color olive green fabric cotton mixed"
       },
       
@@ -51,6 +62,9 @@
         "color": "Black & White",
         "item_code": "38616550965",
         "imageUrl": "https://i.imgur.com/dMOjuRp.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Natu-Natu kid half-shirt set with white and black color combo"
       }
       ,
@@ -65,6 +79,9 @@
         "color": "Black & White",
         "item_code": "38616550965",
         "imageUrl": "https://i.imgur.com/dMOjuRp.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Natu-Natu kid half-shirt set with white and black color combo"
       },
       {
@@ -78,6 +95,9 @@
         "color": "Black & White",
         "item_code": "38616550965",
         "imageUrl": "https://i.imgur.com/dMOjuRp.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Natu-Natu kid half-shirt set with white and black color combo"
       },
       {
@@ -90,6 +110,9 @@
         "size": "18",
         "color": "Pink",
         "imageUrl": "https://i.imgur.com/qn72tJs.png",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "One shoulder fancy frock for girls in pink color with super high quality & soft fabric"
       }
       ,
@@ -103,6 +126,9 @@
         "size": "18",
         "color": "blue",
         "imageUrl": "https://i.imgur.com/eNMuOwW.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "One shoulder fancy frock for girls in blue color with super high quality & soft fabric"
       },
       {
@@ -115,6 +141,9 @@
         "size": "18",
         "color": "white",
         "imageUrl": "https://i.imgur.com/h4VfrFd.png",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "One shoulder fancy frock for girls in white color with super high quality & soft fabric"
       },
       {
@@ -127,6 +156,9 @@
         "size": "18",
         "color": "red",
         "imageUrl": "https://i.imgur.com/UqjQeeW.png",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "One shoulder fancy frock for girls in red color with super high quality & soft fabric"
       },
       {
@@ -139,6 +171,9 @@
         "size": "18",
         "color": "yellow",
         "imageUrl": "https://i.imgur.com/jLCuVYE.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "One shoulder fancy frock for girls in yellow color with super high quality & soft fabric"
       },
       {
@@ -152,6 +187,9 @@
         "color": "silver",
         "item_code":"38659774855",
         "imageUrl": "https://i.imgur.com/h54pNUp.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "fancy frock strap shoulder for girls in silver color with super high quality & soft imported fabric"
       },
       {
@@ -165,6 +203,9 @@
         "color": "golden-yellow",
         "item_code":"38659774855",
         "imageUrl": "https://i.imgur.com/CKWDBCt.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "fancy frock strap shoulder for girls in silver color with super high quality & soft imported fabric"
       },
       {
@@ -178,6 +219,9 @@
         "color": "peach",
         "item code":"38628646597",
         "imageUrl": "https://i.imgur.com/wiqztsA.png",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "fancy frock with broad skirt and rose head on top with peach color and super high quality & soft imported fabric"
       },
       {
@@ -191,6 +235,9 @@
         "color": "pink",
         "item_code":"38628646597",
         "imageUrl": "https://i.imgur.com/t6obcv5.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "fancy frock with broad skirt and rose head on top with peach color and super high quality & soft imported fabric"
       },
       {
@@ -204,6 +251,9 @@
         "color": "pink-white",
         "item_code":"38657726299",
         "imageUrl": "https://i.imgur.com/u2CgT5i.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "fancy frock with new design with pink and white color and super high quality & soft imported fabric"
       },
       {
@@ -217,6 +267,9 @@
         "color": "white",
         "item_code":"38657726299",
         "imageUrl": "https://i.imgur.com/UVmDLyd.png",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "fancy frock with new design with pink and white color and super high quality & soft imported fabric"
       },
       {
@@ -230,6 +283,9 @@
         "color": "blue-white",
         "item_code":"38657726299",
         "imageUrl": "https://i.imgur.com/EugtZ0m.png",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "fancy frock with new design with pink and white color and super high quality & soft imported fabric"
       },
      
@@ -244,6 +300,9 @@
         "color": "white-black",
         "item_code":"38675474058",
         "imageUrl": "https://i.imgur.com/yFHhkWV.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "shirt-Pant set with white theme and super high quality & soft imported fabric"
       },
       {
@@ -257,6 +316,9 @@
         "color": "white-pink",
         "item_code":"38675474058",
         "imageUrl": "https://i.imgur.com/r0V8NUc.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "shirt-Pant set with white theme and super high quality & soft imported fabric"
       },
       {
@@ -270,6 +332,9 @@
         "color": "green",
         "item_code":"386394246300",
         "imageUrl": "https://i.imgur.com/z2yEJ3F.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       },
       {
@@ -283,6 +348,9 @@
         "color": "red",
         "item_code":"3868540104",
         "imageUrl": "https://i.imgur.com/6k5vOoD.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       },
       {
@@ -296,6 +364,9 @@
         "color": "Red",
         "item_code":"38639858181",
         "imageUrl": "https://i.imgur.com/ydxz7aj.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       },
       {
@@ -309,6 +380,9 @@
         "color": "Blue",
         "item_code":"38639858181",
         "imageUrl": "https://i.imgur.com/SYBUFIv.png",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       },
       {
@@ -322,6 +396,9 @@
         "color": "Red",
         "item_code":"38639858181",
         "imageUrl": "https://i.imgur.com/ydxz7aj.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       },
       {
@@ -335,6 +412,9 @@
         "color": "Blue",
         "item_code":"38639858181",
         "imageUrl": "https://i.imgur.com/SYBUFIv.png",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       },
       {
@@ -348,6 +428,9 @@
         "color": "Red",
         "item_code":"38639858181",
         "imageUrl": "https://i.imgur.com/ydxz7aj.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       },
       {
@@ -361,6 +444,9 @@
         "color": "Blue",
         "item_code":"38639858181",
         "imageUrl": "https://i.imgur.com/SYBUFIv.png",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       },
       {
@@ -374,6 +460,9 @@
         "color": "magenta",
         "item_code":"38651353021",
         "imageUrl": "https://i.imgur.com/ik9QSIA.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Modi Kurta set with thread work and super high quality & soft fabric"
       },
       {
@@ -387,6 +476,9 @@
         "color": "green",
         "item_code":"38651353021",
         "imageUrl": "https://i.imgur.com/el9OxXL.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Modi Kurta set with thread work and super high quality & soft fabric"
       },
       {
@@ -400,6 +492,9 @@
         "color": "gray",
         "item_code":"38651353021",
         "imageUrl": "https://i.imgur.com/HpQnE7b.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Modi Kurta set with thread work and super high quality & soft fabric"
       },
       {
@@ -413,6 +508,9 @@
         "color": "White",
         "item_code":"38686230934",
         "imageUrl": "https://i.imgur.com/YdwZIIp.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Koti Kurta set with thread work on koti and super high quality & soft fabric"
       },
       {
@@ -426,6 +524,9 @@
         "color": "White",
         "item_code":"38686230934",
         "imageUrl": "https://i.imgur.com/YdwZIIp.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Koti Kurta set with thread work on koti and super high quality & soft fabric"
       },
       {
@@ -439,6 +540,9 @@
         "color": "White",
         "item_code":"38686230934",
         "imageUrl": "https://i.imgur.com/YdwZIIp.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Koti Kurta set with thread work on koti and super high quality & soft fabric"
       },
       {
@@ -452,6 +556,9 @@
         "color": "Blue",
         "item_code":"38631382071",
         "imageUrl": "https://i.imgur.com/VhIiLXt.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Kurta set with print work and super high quality & soft fabric"
       },
       {
@@ -465,6 +572,9 @@
         "color": "pink",
         "item_code":"38631382071",
         "imageUrl": "https://i.imgur.com/bEYOPWV.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Kurta set with print work and super high quality & soft fabric"
       },
       {
@@ -478,6 +588,9 @@
         "color": "White",
         "item_code":"38631382071",
         "imageUrl": "https://i.imgur.com/tz6O5z1.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Kurta set with print work and super high quality & soft fabric"
       },
       {
@@ -491,6 +604,9 @@
         "color": "green",
         "item_code":"38697331162",
         "imageUrl": "https://i.imgur.com/5aY3JU3.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Shirt set with print work and super high quality & soft fabric"
       },
       {
@@ -504,6 +620,9 @@
         "color": "pink",
         "item_code":"38697331162",
         "imageUrl": "https://i.imgur.com/gZQ9PI9.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Shirt set with print work and super high quality & soft fabric"
       },
       {
@@ -517,6 +636,9 @@
         "color": "gold",
         "item_code":"38697331162",
         "imageUrl": "https://i.imgur.com/rB78mZD.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Shirt set with print work and super high quality & soft fabric"
       },
      
@@ -531,6 +653,9 @@
         "color": "green",
         "item_code":"38681077548",
         "imageUrl": "https://i.imgur.com/eSOTHHu.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Casual wear frock set"
       },
       {
@@ -544,6 +669,9 @@
         "color": "peach-pink",
         "item_code":"38681077548",
         "imageUrl": "https://i.imgur.com/uzA8XhR.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Casual wear frock set"
       },
       {
@@ -557,6 +685,9 @@
         "color": "cream-yellow",
         "item_code":"38681077548",
         "imageUrl": "https://i.imgur.com/wLEIUOa.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Casual wear frock set"
       },
       {
@@ -570,6 +701,9 @@
         "color": "green",
         "item_code":"38616098695",
         "imageUrl": "https://i.imgur.com/P6zrKZI.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Casual wear frock set"
       },
       {
@@ -583,6 +717,9 @@
         "color": "pink",
         "item_code":"38616098695",
         "imageUrl": "https://i.imgur.com/psmKy4e.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Casual wear frock set"
       },
       {
@@ -596,6 +733,9 @@
         "color": "pink",
         "item_code":"38616098695",
         "imageUrl": "https://i.imgur.com/zp0BT13.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Casual wear frock set"
       },
       {
@@ -609,6 +749,9 @@
         "color": "peach",
         "item_code":"38667216698",
         "imageUrl": "https://i.imgur.com/ArBuoOk.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Casual wear frock set"
       },
       {
@@ -622,6 +765,9 @@
         "color": "pink",
         "item_code":"38667216698",
         "imageUrl": "https://i.imgur.com/UhmtFVR.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Casual wear frock set"
       },
       {
@@ -635,6 +781,9 @@
         "color": "blue",
         "item_code":"38667216698",
         "imageUrl": "https://i.imgur.com/a90T6fP.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Casual wear frock set"
       },
       {
@@ -648,6 +797,9 @@
         "color": "Navy-golden",
         "item_code":"38684752439",
         "imageUrl": "https://i.imgur.com/nl7P6e1.png",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Casual wear jump suit set"
       },
       {
@@ -661,6 +813,9 @@
         "color": "Navy-golden",
         "item_code":"38684752439",
         "imageUrl": "https://i.imgur.com/2TlP5YC.png",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Casual wear jump suit set"
       },
       {
@@ -674,6 +829,9 @@
         "color": "Navy-golden",
         "item_code":"38684752439",
         "imageUrl": "https://i.imgur.com/nl7P6e1.png",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Casual wear jump suit set"
       },
       {
@@ -687,6 +845,9 @@
         "color": "peach",
         "item_code":"38669122861",
         "imageUrl": "https://i.imgur.com/eqYsLZE.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Casual wear jump suit set"
       },
       {
@@ -700,6 +861,9 @@
         "color": "green",
         "item_code":"38669122861",
         "imageUrl": "https://i.imgur.com/5wi311g.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Casual wear jump suit set"
       },
       {
@@ -713,6 +877,9 @@
         "color": "blue",
         "item_code":"38669122861",
         "imageUrl": "https://i.imgur.com/arZ25gQ.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Casual wear jump suit set"
       },
       {
@@ -726,6 +893,9 @@
         "color": "violet",
         "item_code":"38669122861",
         "imageUrl": "https://i.imgur.com/38FRQud.jpg",
+        "imageUrls": [
+          "https://imgur.com/rEBZItN.jpeg"
+        ],
         "description": "Casual wear jump suit set"
       }
      
