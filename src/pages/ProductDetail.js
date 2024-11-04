@@ -8,7 +8,7 @@ import 'swiper/css/pagination';
 import SwiperCore from 'swiper';
 import { Navigation, Pagination } from 'swiper/modules';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
-
+import { Helmet } from 'react-helmet-async';
 // Initialize Swiper modules
 SwiperCore.use([Navigation, Pagination]);
 
@@ -34,6 +34,27 @@ function ProductDetail({ addToCart }) {
 
   return (
     <Container sx={{ mt: 2 }}>
+        <Helmet>
+        <title>Tiny Trendez-Product detail  | Boys Ware | Girls fancy dresses | Kids Wear</title>
+        <meta name="description" content="Discover our wide range of quality kids wear, boys fancy Kurta sets,t-shirt sets,shirt sets and girls fancy dresses." />
+        <script type="application/ld+json">
+          {`
+          {
+            "@context": "https://schema.org/",
+            "@type": "Product",
+            "name": "Kids wear",
+            "description": "Discover our wide range of quality kids wear, boys fancy Kurta sets,t-shirt sets,shirt sets and girls fancy dresses.",
+            "brand": "Tiny Trends",
+            "offers": {
+              "@type": "Offer",
+              "price": "70% off",
+              "priceCurrency": "INR",
+              "availability": "https://schema.org/InStock"
+            }
+          }
+          `}
+        </script>
+      </Helmet>
       {/* Swiper Carousel for images */}
       <Swiper navigation pagination={{ clickable: true }} style={{ width: '100%', height: '400px' }}>
         {product.imageUrls.map((url, index) => (

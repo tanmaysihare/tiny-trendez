@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Grid, Card, CardContent, Typography, CardMedia, Button } from '@mui/material';
 import { Link } from 'react-router-dom';
-
+import { Helmet } from 'react-helmet-async';
 function Girls({ addToCart }) {
   const [girlsProducts, setGirlsProducts] = useState([]);
 
@@ -32,6 +32,27 @@ function Girls({ addToCart }) {
           md={4}  // Three columns on medium screens
           key={product.id}
         >
+            <Helmet>
+        <title>Tiny Trendez-Girls Wear | Boys Ware | Girls fancy dresses | Kids Wear</title>
+        <meta name="description" content="Discover our wide range of quality kids wear, girls fancy dresses." />
+        <script type="application/ld+json">
+          {`
+          {
+            "@context": "https://schema.org/",
+            "@type": "Product",
+            "name": "Kids wear",
+            "description": "Discover our wide range of quality kids wear, girls fancy dresses.",
+            "brand": "Tiny Trends",
+            "offers": {
+              "@type": "Offer",
+              "price": "70% off",
+              "priceCurrency": "INR",
+              "availability": "https://schema.org/InStock"
+            }
+          }
+          `}
+        </script>
+      </Helmet>
           <Card sx={{ maxWidth: 345, margin: 'auto' }}>
             <CardMedia
               component="img"

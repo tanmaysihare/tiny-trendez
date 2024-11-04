@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Grid, Card, CardContent, Typography, CardMedia, Button } from '@mui/material';
 import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 
 function Home({ addToCart }) {
   const [products, setProducts] = useState([]);
@@ -24,6 +25,27 @@ function Home({ addToCart }) {
       sx={{ padding: 2, backgroundColor: '#2196f3' }}
       justifyContent="center"
     >
+      <Helmet>
+        <title>Tiny Trendez-Home Page | Boys Ware | Girls fancy dresses | Kids Wear</title>
+        <meta name="description" content="Discover our wide range of quality kids wear, boys fancy Kurta sets,t-shirt sets,shirt sets and girls fancy dresses." />
+        <script type="application/ld+json">
+          {`
+          {
+            "@context": "https://schema.org/",
+            "@type": "Product",
+            "name": "Kids wear",
+            "description": "Discover our wide range of quality kids wear, boys fancy Kurta sets,t-shirt sets,shirt sets and girls fancy dresses.",
+            "brand": "Tiny Trends",
+            "offers": {
+              "@type": "Offer",
+              "price": "70% off",
+              "priceCurrency": "INR",
+              "availability": "https://schema.org/InStock"
+            }
+          }
+          `}
+        </script>
+      </Helmet>
       {products.map(product => (
         <Grid 
           item 
