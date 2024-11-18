@@ -3,18 +3,21 @@ import { Routes, Route, Link } from 'react-router-dom';
 import Home from './pages/Home';
 import Boys from './pages/Boys';
 import Girls from './pages/Girls';
+import WinterCollection from './pages/WinterCollection';
 import ProductDetail from './pages/ProductDetail';
 import Cart from './pages/Cart';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
+import { BottomNavigation, BottomNavigationAction } from '@mui/material';
 // import IconButton from '@mui/material/IconButton';
 // import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import BoyIcon from '@mui/icons-material/Boy';
 import GirlIcon from '@mui/icons-material/Girl';
 import HomeIcon from '@mui/icons-material/Home';
-import { Button } from '@mui/material';
+import AcUnitIcon from '@mui/icons-material/AcUnit';
+//import { Button } from '@mui/material';
 import { pink } from '@mui/material/colors';
 
 
@@ -71,7 +74,7 @@ function App() {
                 alt="logo"
                 width="40"
                 height="40"
-                style={{  marginBottom: '10px',marginRight: '10px', paddingBottom: '10px',paddingTop: '10px',borderRadius: '30%', alignContent: 'center', justifyContent: 'center' }} 
+                style={{  marginBottom: '10px', paddingBottom: '10px',paddingTop: '10px',borderRadius: '30%', alignContent: 'center', justifyContent: 'center' }} 
               />
             </Link>
             <Typography
@@ -80,56 +83,25 @@ function App() {
   sx={{
     flexGrow: 1,
     fontSize: {
-      xs: '1rem',  // Extra-small screens (mobile)
+      xs: '2rem',  // Extra-small screens (mobile)
       sm: '1.25rem',  // Small screens (tablet)
       md: '1.5rem',  // Medium screens (small laptop)
       lg: '2rem',  // Large screens (desktop)
     },
+   
+    textAlign: 'center',
+    textJustifyContent: 'center',
+    justifyContent: 'center',
+    alignContent: 'center',
+    marginBottom: '10px',
+    fontFamily: 'cursive,Brush Script MT',
   }}
 >
   Tiny Trendez
 </Typography>
-
-          {/* Home Button */}
-          <Button
-            component={Link}
-            to="/"
-            startIcon={<HomeIcon />}
-            color="inherit"
-          >
-            Home
-          </Button>
-
-          {/* Boys Button */}
-          <Button
-            component={Link}
-            to="/boys"
-            startIcon={<BoyIcon />}
-            color="inherit"
-          >
-            Boys
-          </Button>
-
-          {/* Girls Button */}
-          <Button
-            component={Link}
-            to="/girls"
-            startIcon={<GirlIcon />}
-            color="inherit"
-          >
-            Girls
-          </Button>
-
-          {/* Cart Button */}
-          {/* <IconButton
-            component={Link}
-            to="/cart"
-            edge="end"
-            color="inherit"
-            aria-label="cart"
-          >
-            <ShoppingCartIcon /> 
-          </IconButton>*/}
+ 
+         
+          
         </Toolbar>
       </AppBar>
 
@@ -137,6 +109,7 @@ function App() {
         <Route exact path="/" element={<Home addToCart={addToCart} />} />
         <Route path="/boys" element={<Boys addToCart={addToCart} />} />
         <Route path="/girls" element={<Girls addToCart={addToCart} />} />
+        <Route path="/winter-collection" element={<WinterCollection addToCart={addToCart} />} />
         <Route path="/product/:id" element={<ProductDetail addToCart={addToCart} />} />
         <Route
           path="/cart"
@@ -150,6 +123,34 @@ function App() {
           }
         />
       </Routes>
+       {/* Bottom Navigation */}
+       <BottomNavigation showLabels sx={{ position: 'fixed', bottom: 0, width: '100%' }}>
+        <BottomNavigationAction
+          label="Home"
+          icon={<HomeIcon />}
+          component={Link}
+          to="/"
+        />
+        <BottomNavigationAction
+          label="Boys"
+          icon={<BoyIcon />}
+          component={Link}
+          to="/boys"
+        />
+        <BottomNavigationAction
+          label="Girls"
+          icon={<GirlIcon />}
+          component={Link}
+          to="/girls"
+        />
+        <BottomNavigationAction
+          label="Winter"
+          icon={<AcUnitIcon />}
+          component={Link}
+          to="/winter-collection"
+        />
+       
+      </BottomNavigation>
     </ThemeProvider>
   );
 }

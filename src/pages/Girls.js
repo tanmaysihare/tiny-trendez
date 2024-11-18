@@ -24,15 +24,7 @@ function Girls({ addToCart }) {
       sx={{ padding: 2, backgroundColor: '#2196f3' }}
       justifyContent="center"
     >
-      {girlsProducts.map(product => (
-        <Grid 
-          item 
-          xs={6} // Full width on extra-small screens
-          sm={6}  // Two columns on small screens
-          md={4}  // Three columns on medium screens
-          key={product.id}
-        >
-            <Helmet>
+      <Helmet>
         <title>Tiny Trendez-Girls Wear | Boys Ware | Girls fancy dresses | Kids Wear</title>
         <meta name="description" content="Discover our wide range of quality kids wear, girls fancy dresses." />
         <script type="application/ld+json">
@@ -53,6 +45,15 @@ function Girls({ addToCart }) {
           `}
         </script>
       </Helmet>
+      {girlsProducts.map(product => (
+        <Grid 
+          item 
+          xs={6} // Full width on extra-small screens
+          sm={6}  // Two columns on small screens
+          md={4}  // Three columns on medium screens
+          key={product.id}
+        >
+            
           <Card sx={{ maxWidth: 345, margin: 'auto' }}>
             <CardMedia
               component="img"
@@ -64,9 +65,14 @@ function Girls({ addToCart }) {
               <Typography gutterBottom variant="h5" component="div">
                 {product.name}
               </Typography>
-              <Typography variant="body2" color="secondary">
-                MRP: ₹{product.price} <br />
-                After {product.discount}Discount Sale Price: ₹{(product.price * product.discounted_price).toFixed(2)}
+              <Typography variant="body1" color="primary" sx={{ fontWeight: 'bold' }}>
+                Sale Price: ₹{(product.price * product.discounted_price).toFixed(2)}/-
+              </Typography>
+              <Typography variant="body2" color="secondary" sx={{ fontWeight: 'bold' }}>
+                MRP: ₹{product.price} /-
+              </Typography>
+              <Typography variant="body1" color="secondary">
+               {product.discount} OFF
               </Typography>
               <Button 
                 component={Link} 

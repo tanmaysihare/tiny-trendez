@@ -47,7 +47,7 @@ function ProductDetail({ addToCart }) {
             "brand": "Tiny Trends",
             "offers": {
               "@type": "Offer",
-              "price": "70% off",
+              "price": "80% off",
               "priceCurrency": "INR",
               "availability": "https://schema.org/InStock"
             }
@@ -66,12 +66,19 @@ function ProductDetail({ addToCart }) {
 
       <Typography variant="h3" color="primary">{product.name}</Typography>
       <Typography variant="h6" color="secondary">
-        MRP: ₹{product.price} /- <br/>
-        After {product.discount}Discount Sale Price: ₹{(product.price * product.discounted_price).toFixed(2)},
-         Color: {product.color}
+        Sale Price: ₹{(product.price * product.discounted_price).toFixed(2)}/- <br />
+        MRP: ₹{product.price}/- {product.discount} OFF ,
+        
       </Typography>
-      <Typography variant="h6" color="primary" sx={{ mt: 2 }}>Size {product.size}</Typography>
-      <Typography variant="h5" color="secondary.secondary" sx={{ mb: 4, mt: 2,textTransform: 'uppercase' }}>{product.description}</Typography>
+      <Typography variant="h6" color="primary" sx={{ mt: 2 }}>Size {product.size}<br/> Color: {product.color}</Typography>
+      <div>
+      {product.description.split('\n\n').map((paragraph, index) => (
+          <Typography key={index} variant="body1"  color="secondary.secondary" sx={{ mb: 4, mt: 2,textTransform: 'uppercase' }}>
+            {paragraph}
+          </Typography>
+        ))}
+      </div>
+      {/* <Typography variant="h5" color="secondary.secondary" sx={{ mb: 4, mt: 2,textTransform: 'uppercase' }}>{product.description}</Typography> */}
       <Button
         variant="contained"
         color="success"

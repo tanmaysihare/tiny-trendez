@@ -19,6 +19,102 @@
         "description": "full work koti, kurta pajama for 1-1.5 years old color olive green fabric cotton mixed"
       },
       {
+        "id": 74,
+        "name": "Velvet Hoodie Tracksuit",
+        "category": "winter",
+        "price": 1099,
+        "discount": "80%",
+        "discounted_price": 0.201,  
+        "size": "24",
+        "color": "brown",  
+        "item_code": "38693502874",
+        "imageUrl": "https://i.imgur.com/Lku13hv.jpg",
+        "imageUrls": [
+          "https://i.imgur.com/Lku13hv.jpg",
+          "https://i.imgur.com/9n4jKLi.jpg" ,
+          "https://i.imgur.com/lhRi0Hu.jpg" 
+        ],
+        "description": "Cozy and Stylish Brown Velvet Tracksuit for Kids\n\nThis adorable brown velvet tracksuit is the perfect outfit for your little one to stay warm and stylish this winter. Made from soft and comfortable velvet, this set includes a hooded sweatshirt and matching sweatpants. The sweatshirt features a drawstring hood and long sleeves, while the sweatpants have an elastic waistband for a snug fit. The tracksuit boasts a trendy look. \n\n**Key Features:**\n* Soft and Warm: Made from high-quality velvet for comfort and warmth.\n* Stylish Design: Trendy brown color for a stylish look.\n* Functional: Drawstring hood and elastic waistband for a comfortable fit.\n* Perfect for Winter: Ideal for keeping your child warm during the cold months.\n\n**Care Instructions:**\n* Machine wash cold with like colors\n* Tumble dry low\n* Do not bleach\n\nLet your child stay cozy and fashionable with this stylish and comfortable brown velvet tracksuit!"
+      },
+      {
+        "id": 75,
+        "name": "velvet Velvet Tracksuit",
+        "category": "winter",
+        "price": 949, 
+        "discount": "80%", 
+        "discounted_price": 0.201,  
+        "size": 16, 
+        "color": "lavender", 
+        "item_code": "38671190814",
+        "imageUrl": "https://i.imgur.com/PvMDelU.jpg",
+        "imageUrls": [
+          "https://i.imgur.com/PvMDelU.jpg" 
+        ],
+        "description": "Cozy and Stylish lavender Velvet Tracksuit for Kids\n\nThis adorable lavender velvet tracksuit is the perfect outfit for your little one to stay warm and stylish this winter. Made from soft and comfortable velvet, this set includes a hooded sweatshirt and matching sweatpants. The sweatshirt features a drawstring hood and long sleeves, while the sweatpants have an elastic waistband for a snug fit. The tracksuit boasts a trendy look. \n\n**Key Features:**\n* Soft and Warm: Made from high-quality velvet for comfort and warmth.\n* Stylish Design: Trendy lavender color for a stylish look.\n* Functional: Drawstring hood and elastic waistband for a comfortable fit.\n* Perfect for Winter: Ideal for keeping your child warm during the cold months.\n\n**Care Instructions:**\n* Machine wash cold with like colors\n* Tumble dry low\n* Do not bleach\n\nLet your child stay cozy and fashionable with this stylish and comfortable brown velvet tracksuit!"
+      },
+      {
+        "id": 76, 
+        "name": "velvet Velvet Tracksuit",
+        "category": "winter",
+        "price": 949,
+        "discount": "80%",
+        "discounted_price": 0.201,
+        "size": 16,
+        "color": "black",
+        "item_code": "38671190814",
+        "imageUrl": "https://i.imgur.com/r77rSmy.jpg",
+        "imageUrls": [
+          "https://i.imgur.com/r77rSmy.jpg" ,
+          "https://i.imgur.com/oj7qy0u.png",
+          "https://i.imgur.com/FXOXcTN.png",
+          "https://i.imgur.com/IbNCKND.png",
+          "https://i.imgur.com/bTs60AP.png"
+        ],
+        "description": "Magical Comfort: Unicorn Velvet Tracksuit for Kids\n\nThis enchanting unicorn velvet tracksuit is a dream come true for your little one. Made from soft and cozy velvet, this set includes a long-sleeved top adorned with a cute unicorn print and matching sweatpants. The elastic waistband ensures a comfortable fit, while the vibrant unicorn design adds a touch of magic to every outfit. \n\n**Key Features:**\n* Soft and Warm: Made from high-quality velvet for comfort and warmth.\n* Magical Design: Adorable unicorn print for a whimsical look.\n* Functional: Elastic waistband for a comfortable fit.\n* Perfect for Winter: Ideal for keeping your child warm during the cold months.\n\n**Care Instructions:**\n* Machine wash cold with like colors\n* Tumble dry low\n* Do not bleach\n\nLet your child's imagination soar with this magical and comfortable unicorn velvet tracksuit!"
+      },
+      
+        {
+          "id": 77,
+          "name": "Mickey Mouse Velvet Tracksuit",
+          "category": "winter",
+          "price": 949,
+          "discount": "80%",
+          "discounted_price": 0.201,
+          "size": 18,
+          "color": "peach",
+          "item_code": "38671190814",
+          "imageUrl": "https://i.imgur.com/3qrFRdB.jpg",
+          "imageUrls": [
+            "https://i.imgur.com/3qrFRdB.jpg",
+            "https://i.imgur.com/dO0iiLz.jpg",
+            "https://i.imgur.com/hFBRv7B.jpg",
+            "https://i.imgur.com/OUlP4vQ.png"
+           
+          ],
+          "description": "Disney Magic: Mickey Mouse Velvet Tracksuit for Kids\n\nBring the magic of Disney to your child's wardrobe with this adorable Mickey Mouse velvet tracksuit. Made from soft and cozy velvet, this set includes a long-sleeved top featuring Mickey Mouse and his friends and matching sweatpants. The elastic waistband ensures a comfortable fit, while the vibrant peach color adds a touch of fun to every outfit. \n\n**Key Features:**\n* Soft and Warm: Made from high-quality velvet for comfort and warmth.\n* Disney Magic: Featuring Mickey Mouse and friends for a fun and playful look.\n* Functional: Elastic waistband for a comfortable fit.\n* Perfect for Winter: Ideal for keeping your child warm during the cold months.\n\n**Care Instructions:**\n* Machine wash cold with like colors\n* Tumble dry low\n* Do not bleach\n\nLet your child's imagination soar with this magical and comfortable Mickey Mouse velvet tracksuit!"
+        
+      },
+      {
+        "id": 78,
+        "name": "Mickey Mouse Velvet Tracksuit",
+        "category": "winter",
+        "price": 949,
+        "discount": "80%",
+        "discounted_price": 0.1898,
+        "size": 18,
+        "color": "brown",
+        "item_code": "38671190814",
+        "imageUrl": "https://i.imgur.com/5SPJk0g.jpg",
+        "imageUrls": [
+          "https://i.imgur.com/5SPJk0g.jpg",
+          "https://i.imgur.com/gBC32up.jpg",
+          "https://i.imgur.com/3wkDxxM.jpg",
+          "https://i.imgur.com/oqDHQOm.png",
+          "https://i.imgur.com/XbgjgFD.png"
+        ],
+        "description": "Disney Magic: Mickey Mouse Velvet Tracksuit for Kids\n\nBring the magic of Disney to your child's wardrobe with this adorable Mickey Mouse velvet tracksuit. Made from soft and cozy velvet, this set includes a long-sleeved top featuring Mickey Mouse and his friends and matching sweatpants. The elastic waistband ensures a comfortable fit, while the classic brown color adds a touch of timeless style. \n\n**Key Features:**\n* Soft and Warm: Made from high-quality velvet for comfort and warmth.\n* Disney Magic: Featuring Mickey Mouse and friends for a fun and playful look.\n* Functional: Elastic waistband for a comfortable fit.\n* Perfect for Winter: Ideal for keeping your child warm during the cold months.\n\n**Care Instructions:**\n* Machine wash cold with like colors\n* Tumble dry low\n* Do not bleach\n\nLet your child's imagination soar with this magical and comfortable Mickey Mouse velvet tracksuit!"
+      },
+      {
         "id": 2,
         "name": "Full Work Koti, Kurta Pajama",
         "category": "boys",
@@ -122,24 +218,6 @@
           "https://i.imgur.com/3MRTOyv.jpg"
         ],
         "description": "Natu-Natu kid half-shirt set with white and black color combo"
-      },
-      {
-        "id": 10,
-        "name": "Fancy Frock 141",
-        "category": "girls",
-        "price": 1969,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "18",
-        "color": "Pink",
-        "imageUrl": "https://i.imgur.com/qn72tJs.png",
-        "imageUrls": [
-         "https://i.imgur.com/qn72tJs.png",
-          "https://i.imgur.com/Pze6ONK.png",
-          "https://i.imgur.com/tX5wcBn.png",
-          "https://i.imgur.com/qn72tJs.png"
-        ],
-        "description": "One shoulder fancy frock for girls in pink color with super high quality & soft fabric"
       }
       ,
       {

@@ -64,9 +64,14 @@ function Boys({ addToCart }) {
             <Typography gutterBottom variant="h5" component="div">
               {product.name}
             </Typography>
-            <Typography variant="body2" color="secondary">
-                MRP: ₹{product.price} <br />
-                After {product.discount}Discount Sale Price: ₹{(product.price * product.discounted_price).toFixed(2)}
+            <Typography variant="body1" color="primary" sx={{ fontWeight: 'bold' }}>
+                Sale Price: ₹{(product.price * product.discounted_price).toFixed(2)}/-
+              </Typography>
+              <Typography variant="body2" color="secondary" sx={{ fontWeight: 'bold' }}>
+                MRP: ₹{product.price} /-
+              </Typography>
+              <Typography variant="body1" color="secondary">
+               {product.discount} OFF
               </Typography>
             <Button 
               component={Link} 
