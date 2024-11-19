@@ -34,7 +34,7 @@ function Girls({ addToCart }) {
             "@type": "Product",
             "name": "Kids wear",
             "description": "Discover our wide range of quality kids wear, girls fancy dresses.",
-            "brand": "Tiny Trends",
+            "brand": "Tiny Trendez",
             "offers": {
               "@type": "Offer",
               "price": "70% off",
@@ -61,29 +61,31 @@ function Girls({ addToCart }) {
               image={product.imageUrl}
               alt={product.name}
             />
-            <CardContent>
-              <Typography gutterBottom variant="h5" component="div">
-                {product.name}
-              </Typography>
-              <Typography variant="body1" color="primary" sx={{ fontWeight: 'bold' }}>
-                Sale Price: ₹{(product.price * product.discounted_price).toFixed(2)}/-
-              </Typography>
-              <Typography variant="body2" color="secondary" sx={{ fontWeight: 'bold' }}>
-                MRP: ₹{product.price} /-
-              </Typography>
-              <Typography variant="body1" color="secondary">
-               {product.discount} OFF
-              </Typography>
-              <Button 
-                component={Link} 
-                to={`/product/${product.id}`} 
-                variant="contained" 
-                color="primary"
-                sx={{ mt: 1 }}
-              >
-                View Details
-              </Button>
-            </CardContent>
+              <CardContent>
+          
+          <Typography gutterBottom variant="h5" component="div">
+           {product.name}
+          </Typography>
+          <Typography variant="body2" color="secondary" sx={{ fontWeight: 'bold' }}>
+          Id No :- {product.id} / Size:- {product.size}
+          </Typography>
+          <Typography variant="body1" color="primary" sx={{ fontWeight: 'bold' }}>
+            Sale Price: ₹{(product.price * product.discounted_price).toFixed(2)}/-
+          </Typography>
+          <Typography variant="body2" color="secondary" sx={{ fontWeight: 'bold' }}>
+            MRP: ₹{product.price}/- Flat {product.discount} OFF
+          </Typography>
+          
+          <Button 
+            component={Link} 
+            to={`/product/${product.id}`} 
+            variant="contained" 
+            color="primary"
+            sx={{ mt: 1 }}
+          >
+            View Details
+          </Button>
+        </CardContent>
           </Card>
         </Grid>
       ))}

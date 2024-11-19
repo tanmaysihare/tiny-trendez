@@ -33,7 +33,7 @@ function Boys({ addToCart }) {
         key={product.id}
       >
           <Helmet>
-        <title>Tiny Trendez-Home Page | Boys Ware | Girls fancy dresses | Kids Wear</title>
+        <title>Tiny Trendez- Boys Ware | Girls fancy dresses | Kids Wear</title>
         <meta name="description" content="Discover our wide range of quality kids wear, boys fancy Kurta sets,t-shirt sets,shirt sets" />
         <script type="application/ld+json">
           {`
@@ -42,7 +42,7 @@ function Boys({ addToCart }) {
             "@type": "Product",
             "name": "Kids wear",
             "description": "Discover our wide range of quality kids wear, boys fancy Kurta sets,t-shirt sets,shirt sets .",
-            "brand": "Tiny Trends",
+            "brand": "Tiny Trendez",
             "offers": {
               "@type": "Offer",
               "price": "70% off",
@@ -60,29 +60,31 @@ function Boys({ addToCart }) {
             image={product.imageUrl}
             alt={product.name}
           />
-          <CardContent>
-            <Typography gutterBottom variant="h5" component="div">
-              {product.name}
-            </Typography>
-            <Typography variant="body1" color="primary" sx={{ fontWeight: 'bold' }}>
-                Sale Price: ₹{(product.price * product.discounted_price).toFixed(2)}/-
-              </Typography>
-              <Typography variant="body2" color="secondary" sx={{ fontWeight: 'bold' }}>
-                MRP: ₹{product.price} /-
-              </Typography>
-              <Typography variant="body1" color="secondary">
-               {product.discount} OFF
-              </Typography>
-            <Button 
-              component={Link} 
-              to={`/product/${product.id}`} 
-              variant="contained" 
-              color="primary"
-              sx={{ mt: 1 }}
-            >
-              View Details
-            </Button>
-          </CardContent>
+             <CardContent>
+          
+          <Typography gutterBottom variant="h5" component="div">
+           {product.name}
+          </Typography>
+          <Typography variant="body2" color="secondary" sx={{ fontWeight: 'bold' }}>
+          Id No :- {product.id} / Size:- {product.size}
+          </Typography>
+          <Typography variant="body1" color="primary" sx={{ fontWeight: 'bold' }}>
+            Sale Price: ₹{(product.price * product.discounted_price).toFixed(2)}/-
+          </Typography>
+          <Typography variant="body2" color="secondary" sx={{ fontWeight: 'bold' }}>
+            MRP: ₹{product.price}/- Flat {product.discount} OFF
+          </Typography>
+          
+          <Button 
+            component={Link} 
+            to={`/product/${product.id}`} 
+            variant="contained" 
+            color="primary"
+            sx={{ mt: 1 }}
+          >
+            View Details
+          </Button>
+        </CardContent>
         </Card>
       </Grid>
     ))}

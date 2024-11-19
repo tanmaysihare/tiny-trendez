@@ -2,7 +2,7 @@
     "products": [
       {
         "id": 1,
-        "name": "Full Work Koti, Kurta Pajama",
+        "name": "Full Work Koti Kurta Pajama",
         "category": "boys",
         "price": 4469,  
         "discount": "80%",
@@ -38,7 +38,7 @@
       },
       {
         "id": 75,
-        "name": "velvet Velvet Tracksuit",
+        "name": "Velvet Tracksuit",
         "category": "winter",
         "price": 949, 
         "discount": "80%", 
@@ -54,7 +54,7 @@
       },
       {
         "id": 76, 
-        "name": "velvet Velvet Tracksuit",
+        "name": " Velvet Tracksuit",
         "category": "winter",
         "price": 949,
         "discount": "80%",
@@ -113,6 +113,82 @@
           "https://i.imgur.com/XbgjgFD.png"
         ],
         "description": "Disney Magic: Mickey Mouse Velvet Tracksuit for Kids\n\nBring the magic of Disney to your child's wardrobe with this adorable Mickey Mouse velvet tracksuit. Made from soft and cozy velvet, this set includes a long-sleeved top featuring Mickey Mouse and his friends and matching sweatpants. The elastic waistband ensures a comfortable fit, while the classic brown color adds a touch of timeless style. \n\n**Key Features:**\n* Soft and Warm: Made from high-quality velvet for comfort and warmth.\n* Disney Magic: Featuring Mickey Mouse and friends for a fun and playful look.\n* Functional: Elastic waistband for a comfortable fit.\n* Perfect for Winter: Ideal for keeping your child warm during the cold months.\n\n**Care Instructions:**\n* Machine wash cold with like colors\n* Tumble dry low\n* Do not bleach\n\nLet your child's imagination soar with this magical and comfortable Mickey Mouse velvet tracksuit!"
+      },
+      {
+        "id": 79,
+        "name": "Checkered Blazer Set",
+        "category": "boys",
+        "price": 3329,
+        "discount": "80%",
+        "discounted_price": 0.201,
+        "size": 20,
+        "color": "green",
+        "item_code": "38693731509",
+        "imageUrl": "https://i.imgur.com/jIL93Zn.jpg",
+        "imageUrls": [
+          "https://i.imgur.com/jIL93Zn.jpg",
+          "https://i.imgur.com/BehvW7d.jpg",
+          "https://i.imgur.com/0vypsNG.jpg"
+
+        ],
+        "description": "Stylish and Sophisticated: Checkered Blazer Set for Kids\n\nDress your little one in style with this sophisticated checkered blazer set. The set includes a stylish blazer with a checkered pattern and a pair of matching pants. The blazer features a button closure and pockets, while the pants have an elastic waistband for a comfortable fit. Perfect for special occasions or everyday wear, this set is sure to make your child look their best.\n\n**Key Features:**\n* Stylish Design: Checkered pattern for a sophisticated look.\n* Comfortable Fit: Elastic waistband and button closure for easy wear.\n* Versatile: Perfect for both formal and casual occasions.\n* High-Quality Material: Durable and long-lasting.\n\n**Care Instructions:**\n* Machine wash cold with like colors\n* Tumble dry low\n* Do not bleach\n\nLet your child look sharp and stylish with this sophisticated checkered blazer set!"
+      },
+      {
+        "id": 80,
+        "name": "Checkered Blazer Set",
+        "category": "boys",
+        "price": 3329,
+        "discount": "80%",
+        "discounted_price": 0.201,
+        "size": 20,
+        "color": "peach",
+        "item_code": "38693731509",
+        "imageUrl": "https://i.imgur.com/QvuD24f.jpg",
+        "imageUrls": [
+          "https://i.imgur.com/QvuD24f.jpg",
+          "https://i.imgur.com/MF7QK6s.jpg",
+          "https://i.imgur.com/Nzha8AJ.jpg",
+          "https://i.imgur.com/Ox2tsA6.jpg"
+          
+        ],
+        "description": "Stylish and Sophisticated: Checkered Blazer Set for Kids\n\nDress your little one in style with this sophisticated checkered blazer set. The set includes a stylish blazer with a checkered pattern and a pair of matching pants. The blazer features a button closure and pockets, while the pants have an elastic waistband for a comfortable fit. Perfect for special occasions or everyday wear, this set is sure to make your child look their best.\n\n**Key Features:**\n* Stylish Design: Checkered pattern for a sophisticated look.\n* Comfortable Fit: Elastic waistband and button closure for easy wear.\n* Versatile: Perfect for both formal and casual occasions.\n* High-Quality Material: Durable and long-lasting.\n\n**Care Instructions:**\n* Machine wash cold with like colors\n* Tumble dry low\n* Do not bleach\n\nLet your child look sharp and stylish with this sophisticated checkered blazer set!"
+      },
+      {
+        "id": 81,
+        "name": "Printed Blazer Set",
+        "category": "boys",
+        "price": 3099,
+        "discount": "80%",
+        "discounted_price": 0.201,
+        "size": 18,
+        "color": "white and purple",
+        "item_code": "3869974844",
+        "imageUrl": "https://i.imgur.com/33DNW6h.jpg",
+        "imageUrls": [
+          "https://i.imgur.com/33DNW6h.jpg",
+          "https://i.imgur.com/9VleYHY.jpg",
+          "https://i.imgur.com/mG94cDi.jpg"
+        ],
+        "description": "Elegant and Stylish: Printed Blazer Set for Kids\n\nMake your little one the star of the show with this elegant printed blazer set. The set includes a stylish blazer featuring a beautiful floral print and a pair of matching maroon pants. The blazer has a button closure and pockets, while the pants have an elastic waistband for a comfortable fit. Perfect for special occasions or formal events, this set is sure to impress.\n\n**Key Features:**\n* Elegant Design: Beautiful floral print for a sophisticated look.\n* Comfortable Fit: Elastic waistband and button closure for easy wear.\n* Versatile: Perfect for both formal and casual occasions.\n* High-Quality Material: Durable and long-lasting.\n\n**Care Instructions:**\n* Machine wash cold with like colors\n* Tumble dry low\n* Do not bleach\n\nLet your child shine with this elegant and stylish printed blazer set!"
+      },
+      {
+        "id": 82,
+        "name": "Printed Blazer Set",
+        "category": "boys",
+        "price": 3099,
+        "discount": "80%",
+        "discounted_price": 0.201,
+        "size": 16,
+        "color": "white and blue",
+        "item_code": "3869974844",
+        "imageUrl": "https://i.imgur.com/FhZni6b.jpg",
+        "imageUrls": [
+          "https://i.imgur.com/FhZni6b.jpg",
+          "https://i.imgur.com/cFBTvCK.jpg",
+          "https://i.imgur.com/L9RDBWj.jpg",
+          "https://i.imgur.com/nnrQPiu.png"
+        ],
+        "description": "Elegant and Stylish: Printed Blazer Set for Kids\n\nMake your little one the star of the show with this elegant printed blazer set. The set includes a stylish blazer featuring a beautiful floral print and a pair of matching maroon pants. The blazer has a button closure and pockets, while the pants have an elastic waistband for a comfortable fit. Perfect for special occasions or formal events, this set is sure to impress.\n\n**Key Features:**\n* Elegant Design: Beautiful floral print for a sophisticated look.\n* Comfortable Fit: Elastic waistband and button closure for easy wear.\n* Versatile: Perfect for both formal and casual occasions.\n* High-Quality Material: Durable and long-lasting.\n\n**Care Instructions:**\n* Machine wash cold with like colors\n* Tumble dry low\n* Do not bleach\n\nLet your child shine with this elegant and stylish printed blazer set!"
       },
       {
         "id": 2,
@@ -568,22 +644,7 @@
         ],
         "description": "T-shirt set with leafy theme and super high quality & soft imported fabric"
       },
-      {
-        "id": 33,
-        "name": "Modi Kurta set 9211",
-        "category": "boys",
-        "price": 2319,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "20",
-        "color": "magenta",
-        "item_code":"38651353021",
-        "imageUrl": "https://i.imgur.com/ik9QSIA.jpg",
-        "imageUrls": [
-         "https://i.imgur.com/ik9QSIA.jpg"
-        ],
-        "description": "Modi Kurta set with thread work and super high quality & soft fabric"
-      },
+     
       {
         "id": 34,
         "name": "Modi Kurta set 9211",
@@ -616,38 +677,8 @@
         ],
         "description": "Modi Kurta set with thread work and super high quality & soft fabric"
       },
-      {
-        "id": 36,
-        "name": "Koti Kurta set 6977",
-        "category": "boys",
-        "price": 2899,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "20",
-        "color": "White",
-        "item_code":"38686230934",
-        "imageUrl": "https://i.imgur.com/YdwZIIp.jpg",
-        "imageUrls": [
-           "https://i.imgur.com/YdwZIIp.jpg"
-        ],
-        "description": "Koti Kurta set with thread work on koti and super high quality & soft fabric"
-      },
-      {
-        "id": 37,
-        "name": "Koti Kurta set 6977",
-        "category": "boys",
-        "price": 2899,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "18",
-        "color": "White",
-        "item_code":"38686230934",
-        "imageUrl": "https://i.imgur.com/YdwZIIp.jpg",
-        "imageUrls": [
-          "https://i.imgur.com/YdwZIIp.jpg"
-        ],
-        "description": "Koti Kurta set with thread work on koti and super high quality & soft fabric"
-      },
+     
+     
       {
         "id": 38,
         "name": "Koti Kurta set 6977",

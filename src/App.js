@@ -124,7 +124,7 @@ function App() {
         />
       </Routes>
        {/* Bottom Navigation */}
-       <BottomNavigation showLabels sx={{ position: 'fixed', bottom: 0, width: '100%' }}>
+       <BottomNavigation showLabels sx={{ position: 'sticky', bottom: 0, width: '100%' }}>
         <BottomNavigationAction
           label="Home"
           icon={<HomeIcon />}

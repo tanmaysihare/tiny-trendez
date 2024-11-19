@@ -44,7 +44,7 @@ function ProductDetail({ addToCart }) {
             "@type": "Product",
             "name": "Kids wear",
             "description": "Discover our wide range of quality kids wear, boys fancy Kurta sets,t-shirt sets,shirt sets and girls fancy dresses.",
-            "brand": "Tiny Trends",
+            "brand": "Tiny Trendez",
             "offers": {
               "@type": "Offer",
               "price": "80% off",

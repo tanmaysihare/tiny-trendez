@@ -35,7 +35,7 @@ function Home({ addToCart }) {
             "@type": "Product",
             "name": "Kids wear",
             "description": "Discover our wide range of quality kids wear, boys fancy Kurta sets,t-shirt sets,shirt sets and girls fancy dresses.",
-            "brand": "Tiny Trends",
+            "brand": "Tiny Trendez",
             "offers": {
               "@type": "Offer",
               "price": "70% off",
@@ -62,18 +62,20 @@ function Home({ addToCart }) {
               alt={product.name}
             />
             <CardContent>
+          
               <Typography gutterBottom variant="h5" component="div">
-                {product.name}
+               {product.name}
+              </Typography>
+              <Typography variant="body2" color="secondary" sx={{ fontWeight: 'bold' }}>
+              Id No :- {product.id} / Size:- {product.size}
               </Typography>
               <Typography variant="body1" color="primary" sx={{ fontWeight: 'bold' }}>
                 Sale Price: ₹{(product.price * product.discounted_price).toFixed(2)}/-
               </Typography>
               <Typography variant="body2" color="secondary" sx={{ fontWeight: 'bold' }}>
-                MRP: ₹{product.price} /-
+                MRP: ₹{product.price}/- Flat {product.discount} OFF
               </Typography>
-              <Typography variant="body1" color="secondary">
-               {product.discount} OFF
-              </Typography>
+              
               <Button 
                 component={Link} 
                 to={`/product/${product.id}`} 
