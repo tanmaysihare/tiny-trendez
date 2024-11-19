@@ -30,7 +30,7 @@ function ProductDetail({ addToCart }) {
     return <Typography>Loading...</Typography>;
   }
 
-  const whatsappLink = `https://wa.me/7000917851?text=I'm%20interested%20in%20${product.name}%20(${product.size}).%20MRP:%20₹${product.price}%20Sale%20Price:%20₹${product.discounted_price}`;
+  const whatsappLink = `https://wa.me/7000917851?text=I'm%20interested%20in%20Id%20No.%20${product.id}%20${product.name}%20(${product.size}).%20MRP:%20₹${product.price}%20Sale%20Price:%20₹${(product.price * product.discounted_price).toFixed(2)}`;
 
   return (
     <Container sx={{ mt: 2 }}>
@@ -70,7 +70,9 @@ function ProductDetail({ addToCart }) {
         MRP: ₹{product.price}/- {product.discount} OFF ,
         
       </Typography>
-      <Typography variant="h6" color="primary" sx={{ mt: 2 }}>Size {product.size}<br/> Color: {product.color}</Typography>
+      <Typography variant="h6" color="primary" sx={{ mt: 2 }}>
+       Id No:- {product.id}<br/> Size {product.size}<br/> Color: {product.color}
+      </Typography>
       <div>
       {product.description.split('\n\n').map((paragraph, index) => (
           <Typography key={index} variant="body1"  color="secondary.secondary" sx={{ mb: 4, mt: 2,textTransform: 'uppercase' }}>
