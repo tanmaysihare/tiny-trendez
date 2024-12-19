@@ -59,7 +59,7 @@ function ProductDetail({ addToCart }) {
       <Swiper navigation pagination={{ clickable: true }} style={{ width: '100%', height: '400px' }}>
         {product.imageUrls.map((url, index) => (
           <SwiperSlide key={index}>
-            <img src={url} alt={`${product.name} ${index}`} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+            <img src={url} alt={`${product.name} ${index}`} style={{ width: '100%', height: '100%', objectPosition: 'center', objectFit: 'contain' }} />
           </SwiperSlide>
         ))}
       </Swiper>

@@ -60,6 +60,7 @@ function Home({ addToCart }) {
               height="180"
               image={product.imageUrl}
               alt={product.name}
+              sx={{width: '100%', height: 'auto'}}
             />
             <CardContent>
           

@@ -17,42 +17,338 @@
        "https://i.imgur.com/Z7tbeGV.jpg"
       ],
         "description": "full work koti, kurta pajama for 1-1.5 years old color olive green fabric cotton mixed"
+      },{
+        "id": 84,
+        "name": "Boys Printed Blazer", 
+        "category": "boys",
+        "price": 1260,
+        "discount": "50%",
+        "discounted_price": 0.5 ,
+        "size": "20, For 2-2.5 years old",
+        "color": ["multi-colored/black&white ,"," multicolored/peach ,"," multicolored/green"],
+        "item_code": "38698065870",
+        "imageUrl": "https://i.imgur.com/i97Q0to.jpg",
+        "imageUrls": [
+          "https://i.imgur.com/i97Q0to.jpg",
+          "https://i.imgur.com/PNbxQP4.jpg",
+          "https://i.imgur.com/oN2z3A9.jpg",
+          "https://i.imgur.com/Kedpa14.jpg",
+          "https://i.imgur.com/PcguDzj.jpg",
+          "https://i.imgur.com/R4Vh565.jpg",
+          "https://i.imgur.com/BHHoyA0.jpg",
+          "https://i.imgur.com/WC4oCs2.jpg",
+          "https://i.imgur.com/3O9H2qb.jpg",
+          "https://i.imgur.com/bzpsJH6.jpg"
+        ],
+        "description": "Dress your little gentleman in style with this charming printed blazer! Crafted from a soft and breathable cotton blend, it offers both comfort and sophistication. The vibrant olive green color and playful print make it perfect for any occasion, from family gatherings to special events. This blazer is sure to make him look and feel like a million bucks!"
+      },{
+        "id": 85,
+        "name": "Boys Printed Blazer Set",
+        "category": "boys",
+        "price": 1000,
+        "discount": "50%",
+        "discounted_price": 0.5,
+        "size": "18, For 1-1.5 years old",
+        "color": ["multi-colored/lime ,"," multicolored/blue ,"," multicolored/green"],
+        "item_code": "38663747039",
+        "imageUrl": "https://i.imgur.com/Nv0UIhs.png",
+        "imageUrls": [
+          "https://i.imgur.com/Nv0UIhs.png",
+          "https://i.imgur.com/K6OLGoK.jpg",
+          "https://i.imgur.com/8NaX7tE.jpg",
+          "https://i.imgur.com/FDl9xe4.jpg",
+          "https://i.imgur.com/lT3DBLH.jpg",
+          "https://i.imgur.com/27bhHGP.jpg",
+          "https://i.imgur.com/u5U04Zf.jpg",
+          "https://i.imgur.com/IQEhCCg.jpg"
+        ],
+        "description": "Elevate your little boy's style with this eye-catching printed blazer set! The vibrant colors and playful print make it perfect for special occasions and festive gatherings. The set includes a stylish blazer, a comfortable t-shirt, and trendy pants, ensuring a complete and coordinated look. Crafted from high-quality materials, this outfit is both comfortable and durable, allowing your little one to move and play freely. With a 50% discount, this set is an incredible value for the price! Don't miss out on this opportunity to add a touch of flair to your child's wardrobe."
       },
       {
-        "id": 74,
-        "name": "Velvet Hoodie Tracksuit",
-        "category": "winter",
-        "price": 1099,
-        "discount": "80%",
-        "discounted_price": 0.201,  
-        "size": "24",
-        "color": "brown",  
-        "item_code": "38693502874",
-        "imageUrl": "https://i.imgur.com/Lku13hv.jpg",
+        "id": 86,
+        "name": "Boys Printed Blazer Set",
+        "category": "boys",
+        "price": 1120,
+        "discount": "50%",
+        "discounted_price": 0.5,
+        "size": "20, For 2-2.5 years old",
+        "color": ["beige ,"," red ,"," blue"],
+        "item_code": "38641892721",
+        "imageUrl": "https://i.imgur.com/u1xoKAi.jpg",
         "imageUrls": [
-          "https://i.imgur.com/Lku13hv.jpg",
-          "https://i.imgur.com/9n4jKLi.jpg" ,
-          "https://i.imgur.com/lhRi0Hu.jpg" 
+          "https://i.imgur.com/u1xoKAi.jpg",
+          "https://i.imgur.com/lhIrVfS.jpg",
+          "https://i.imgur.com/h0DeJIc.jpg",
+          "https://i.imgur.com/XRdvRgK.jpg",
+          "https://i.imgur.com/Hg9H9LX.jpg"
         ],
-        "description": "Cozy and Stylish Brown Velvet Tracksuit for Kids\n\nThis adorable brown velvet tracksuit is the perfect outfit for your little one to stay warm and stylish this winter. Made from soft and comfortable velvet, this set includes a hooded sweatshirt and matching sweatpants. The sweatshirt features a drawstring hood and long sleeves, while the sweatpants have an elastic waistband for a snug fit. The tracksuit boasts a trendy look. \n\n**Key Features:**\n* Soft and Warm: Made from high-quality velvet for comfort and warmth.\n* Stylish Design: Trendy brown color for a stylish look.\n* Functional: Drawstring hood and elastic waistband for a comfortable fit.\n* Perfect for Winter: Ideal for keeping your child warm during the cold months.\n\n**Care Instructions:**\n* Machine wash cold with like colors\n* Tumble dry low\n* Do not bleach\n\nLet your child stay cozy and fashionable with this stylish and comfortable brown velvet tracksuit!"
+        "description": "This stylish printed blazer set is perfect for your little gentleman! The beige color and elegant print give it a sophisticated look, making it suitable for various occasions. The set includes a comfortable blazer and matching pants, ensuring a coordinated and stylish ensemble. Crafted from high-quality materials, this outfit is both comfortable and durable, allowing your little one to move and play freely."
       },
       {
-        "id": 75,
-        "name": "Velvet Tracksuit",
-        "category": "winter",
-        "price": 949, 
-        "discount": "80%", 
-        "discounted_price": 0.201,  
-        "size": 16, 
-        "color": "lavender", 
-        "item_code": "38671190814",
-        "imageUrl": "https://i.imgur.com/PvMDelU.jpg",
+        "id": 91,
+        "name": "Boys Printed t-shirt Set",
+        "category": "boys",
+        "price": 940,
+        "discount": "50%",
+        "discounted_price": 0.5,
+        "size": "20, For 2-2.5 years old",
+        "color": ["pink ,"," gray ,"," olive"],
+        "item_code": "38679266263",
+        "imageUrl": "https://i.imgur.com/yOTEs7c.jpg",
         "imageUrls": [
-          "https://i.imgur.com/PvMDelU.jpg" 
+          "https://i.imgur.com/yOTEs7c.jpg",
+          "https://i.imgur.com/kJz2UgN.jpg",
+          "https://i.imgur.com/YwkcuJw.jpg",
+          "https://i.imgur.com/48WRmKk.jpg",
+          "https://i.imgur.com/Iztx1my.jpg",
+          "https://i.imgur.com/A3uxiq9.jpg"
         ],
-        "description": "Cozy and Stylish lavender Velvet Tracksuit for Kids\n\nThis adorable lavender velvet tracksuit is the perfect outfit for your little one to stay warm and stylish this winter. Made from soft and comfortable velvet, this set includes a hooded sweatshirt and matching sweatpants. The sweatshirt features a drawstring hood and long sleeves, while the sweatpants have an elastic waistband for a snug fit. The tracksuit boasts a trendy look. \n\n**Key Features:**\n* Soft and Warm: Made from high-quality velvet for comfort and warmth.\n* Stylish Design: Trendy lavender color for a stylish look.\n* Functional: Drawstring hood and elastic waistband for a comfortable fit.\n* Perfect for Winter: Ideal for keeping your child warm during the cold months.\n\n**Care Instructions:**\n* Machine wash cold with like colors\n* Tumble dry low\n* Do not bleach\n\nLet your child stay cozy and fashionable with this stylish and comfortable brown velvet tracksuit!"
+        "description": "This stylish printed sweatshirt set is perfect for your little one's casual wardrobe. The soft pink color and trendy print give it a cool and comfortable look. The set includes a cozy sweatshirt and matching pants, ensuring a coordinated and stylish ensemble. Crafted from high-quality materials, this outfit is perfect for everyday wear and playtime." 
       },
-     
+      {
+        "id": 92,
+        "name": "Boys Printed Shirt with Net Work and Jeans Set",
+        "category": "boys",
+        "price": 950,
+        "discount": "50%",
+        "discounted_price": 0.5,
+        "size": "18 , For 1-1.5 years old",
+        "color": ["black and white ,"," blue and white ,"," blue and gold"],
+        "item_code": "38663747042",
+        "imageUrl": "https://i.imgur.com/cO4BsMr.jpg", 
+        "imageUrls": [
+          "https://i.imgur.com/cO4BsMr.jpg",
+          "https://i.imgur.com/I82LB6x.jpg",
+          "https://i.imgur.com/A8Am7zB.jpg",
+          "https://i.imgur.com/l0JVKUa.jpg",
+          "https://i.imgur.com/PDp76ZF.jpg"
+        ],
+        "description": "This stylish printed shirt and jeans set is perfect for your little boy's casual wardrobe. The black and white print gives it a trendy and modern look. The set includes a comfortable shirt and matching jeans, ensuring a coordinated and stylish ensemble. Crafted from high-quality materials, this outfit is perfect for everyday wear and playtime." 
+      },
+      {
+        "id": 93,
+        "name": "Boys Printed Hoodie and Pants Set",
+        "category": "boys",
+        "price": 540,
+        "discount": "50%",
+        "discounted_price": 0.5,
+        "size": "18, For 1-1.5 years old",
+        "color": ["multicolored/blue ,"," multicolored/yellow ,"," multicolored/pink"],
+        "item_code": "38698619363",
+        "imageUrl": "https://i.imgur.com/E9Oy8LH.jpg",
+        "imageUrls": [
+          "https://i.imgur.com/E9Oy8LH.jpg" ,
+          "https://i.imgur.com/skdfRDt.jpg",
+          "https://i.imgur.com/LhfBRE2.jpg",
+          "https://i.imgur.com/G4Fbhhw.jpg",
+          "https://i.imgur.com/4dleRW7.jpg",
+          "https://i.imgur.com/zI8tvif.jpg"
+        ],
+        "description": "Keep your little one cozy and stylish with this fun printed hoodie and pants set. The vibrant multicolored design and cute bear graphic add a playful touch. This set is perfect for casual outings, playdates, or lounging at home. Crafted from soft and comfortable materials, it's gentle on delicate skin and allows for easy movement. A great addition to any boy's wardrobe."
+      },
+      {
+        "id": 94,
+        "name": "Boys Checkered Shirt and jeans Set",
+        "category": "boys",
+        "price": 980,
+        "discount": "50%",
+        "discounted_price": 0.5,
+        "size": "18, For 1-1.5 years old",
+        "color": ["green ,"," blue ,"," gray"],
+        "item_code": "38686674207",
+        "imageUrl": "https://i.imgur.com/HhVG0b3.jpg", 
+        "imageUrls": [
+          "https://i.imgur.com/HhVG0b3.jpg",
+          "https://i.imgur.com/FScM6CZ.jpg",
+          "https://i.imgur.com/PrSr95V.jpg",
+          "https://i.imgur.com/WAr8pi1.jpg",
+          "https://i.imgur.com/S3i0lTm.jpg",
+          "https://i.imgur.com/9bPrEd0.jpg",
+          "https://i.imgur.com/SRAHLc5.jpg"
+        ],
+        "description": "A classic and comfortable outfit for your little boy, this checkered shirt and shorts set is perfect for everyday wear. The green checkered pattern on the shirt adds a touch of style, while the black shorts provide a versatile and practical bottom. Made from soft and breathable materials, this set ensures all-day comfort for your child."
+      },
+      {
+        "id": 95,
+        "name": "Boys Printed t-shirt and Pants Set",
+        "category": "boys",
+        "price": 920,
+        "discount": "50%",
+        "discounted_price": 0.5,
+        "size": "18, For 1-1.5 years old",
+        "color": ["gray ,", " olive ,", " peach"],
+        "item_code": "38671765588",
+        "imageUrl": "https://i.imgur.com/skHhUXm.jpg",
+        "imageUrls": [
+          "https://i.imgur.com/skHhUXm.jpg",
+          "https://i.imgur.com/au8XsF0.jpg",
+          "https://i.imgur.com/nCfxXEp.jpg",
+          "https://i.imgur.com/S5NfCi5.jpg",
+          "https://i.imgur.com/7nSZZFt.jpg",
+          "https://i.imgur.com/SGTha8T.jpg" 
+        ],
+        "description": "This smart printed t-shirt and pants set is a great choice for your little one. The t-shirt features a subtle print and button detailing, giving it a stylish yet comfortable look. Paired with navy pants, this set is perfect for casual outings or special occasions. Made from soft and durable materials, it's designed for both comfort and long-lasting wear."
+      },
+      {
+        "id": 96,
+        "name": "Boys Formal Suit Set",
+        "category": "boys",
+        "price": 1050,
+        "discount": "50%",
+        "discounted_price": 0.5,
+        "size": "18, For 1-1.5 years old",
+        "color": ["purple ,"," golden"],
+        "item_code": "38650036901",
+        "imageUrl": "https://i.imgur.com/LjF7oyU.jpg", 
+        "imageUrls": [
+          "https://i.imgur.com/LjF7oyU.jpg",
+          "https://i.imgur.com/thH12EZ.jpg",
+          "https://i.imgur.com/s6BAv54.jpg",
+          "https://i.imgur.com/b33pWgn.jpg",
+          "https://i.imgur.com/jk9tVaF.jpg",
+          "https://i.imgur.com/8H7890k.jpg"
+        ],
+        "description": "Dress your little one for special occasions in this elegant formal suit set. The beautiful purple color and detailed textured fabric create a sophisticated look. This set includes a stylish jacket, a matching vest, and coordinating pants, making it a complete and polished outfit. Perfect for weddings, parties, or any formal event."
+      },
+      {
+        "id": 97,
+        "name": "Boys Printed Pajama Set",
+        "category": "boys",
+        "price": 620,
+        "discount": "50%",
+        "discounted_price": 0.5,
+        "size": "16, For 1 years old",
+        "color": ["blue and white ,"," Baby Pink and white ,"," gold and white"],
+        "item_code": "38660357200",
+        "imageUrl": "https://i.imgur.com/5ssal1G.jpg",
+        "imageUrls": [
+          "https://i.imgur.com/5ssal1G.jpg" ,
+          "https://i.imgur.com/cyBPGDq.jpg",
+          "https://i.imgur.com/lFQC1Kl.jpg",
+          "https://i.imgur.com/vtIqNJD.jpg",
+          "https://i.imgur.com/aO1TSTz.jpg",
+          ""
+        ],
+        "description": "This comfortable and stylish printed pajama set is perfect for bedtime or lounging around the house. The blue and white leaf print gives it a fresh and playful look. Made from soft and breathable fabric, this set will keep your little one cozy all night long."
+      },
+      {
+        "id": 98,
+        "name": "Kids Winter Monkey Cap",
+        "category": "winter",
+        "price": 160,
+        "discount": "50%",
+        "discounted_price": 0.5,
+        "size": "1-5 years old",
+        "color": ["pink and blue ,", " red and navy ,", "black and mustered ,", " Sky blue and black ,", "red and mustered ,"," orange and mustered ,"],
+        "item_code": "38636487748",
+        "imageUrl": "https://i.imgur.com/7HqXyoW.png",
+        "imageUrls": [
+          "https://i.imgur.com/7HqXyoW.png",
+          "https://i.imgur.com/MNbdWd1.png" 
+        ],
+        "description": "Keep your little ones warm and cozy this winter with this adorable monkey cap. Designed for kids aged 1-5 years, this cap features a soft and plush material, a fun pink and blue color scheme, and a cute 'LOVE' design. Perfect for chilly days and outdoor adventures."
+      },
+      {
+        "id": 99,
+        "name": "Kids Winter 'YES' Knit Cap",
+        "category": "winter",
+        "price": 180,
+        "discount": "50%",
+        "discounted_price": 0.5,
+        "size": "1-5 years old",
+        "color": ["pink /", " blue /", " purple /", " mustard /", " black"],
+        "item_code": "38699914940",
+        "imageUrl": "https://i.imgur.com/EJBwLic.jpg", 
+        "imageUrls": [
+          "https://i.imgur.com/EJBwLic.jpg",
+          "https://i.imgur.com/1sCqzgt.png" ,
+          "https://i.imgur.com/Wl3HXJN.jpg"
+        ],
+        "description": "Keep your little ones warm and stylish this winter with these fun 'YES' knit caps. Designed for kids aged 1-5 years, these soft and plush caps are perfect for chilly days. Available in a variety of colors."
+      },
+      {
+        "id": 100,
+        "name": "Kids Winter Bear Caps",
+        "category": "winter",
+        "price": 220,
+        "discount": "50%",
+        "discounted_price": 0.5,
+        "size": "Free Size (Kids)",
+        "color": ["brown /", " pink /", " red /", " beige /", " off-white"],
+        "item_code": "38690066039",
+        "imageUrl": "https://i.imgur.com/MMy7tpX.jpg", 
+        "imageUrls": [
+          "https://i.imgur.com/MMy7tpX.jpg",
+          "https://i.imgur.com/JT6Qflr.jpg",
+          "https://i.imgur.com/hQeIlyf.jpg" 
+        ],
+        "description": "Keep your little ones warm and stylish this winter with these adorable bear caps. These soft and plush caps feature a cute bear design and come in a variety of colors. Free size, suitable for kids."
+      },
+      {
+        "id": 101,
+        "name": "Kids Winter Checkered Knit Caps",
+        "category": "winter",
+        "price": 220,
+        "discount": "50%",
+        "discounted_price": 0.5,
+        "size": "Free Size (Kids)",
+        "color": ["yellow/brown ,", " blue/light blue ,", " brown/light brown,", " light blue/white,", " brown/beige"],
+        "item_code": "38672352546",
+        "imageUrl": "https://i.imgur.com/4bKB6Qj.jpg", 
+        "imageUrls": [
+          "https://i.imgur.com/4bKB6Qj.jpg",
+          "https://i.imgur.com/C8lkOsx.jpg",
+          "https://i.imgur.com/IkIdxlj.jpg" 
+        ],
+        "description": "Keep your little ones warm and stylish this winter with these checkered knit caps. These soft and comfortable caps feature a classic checkered pattern and come in a variety of color combinations. Free size, suitable for kids."
+      },
+      {
+        "id": 102,
+        "name": "Cotton Newborn Baby Caps",
+        "category": "winter",
+        "price": 60,
+        "discount": "50%",
+        "discounted_price": 0.5,
+        "size": "Newborn",
+        "color": ["white ,", " blue ,", " pink ,", " green ,", " black"],
+        "item_code": "3866145192",
+        "imageUrl": "https://i.imgur.com/0zLD7VN.jpg",
+        "imageUrls": [
+          "https://i.imgur.com/0zLD7VN.jpg",
+          "https://i.imgur.com/cPAd8Ra.jpg",
+          "https://i.imgur.com/l0adCJU.jpg",
+          "https://i.imgur.com/qpedAGO.jpg"
+        ],
+        "description": "These soft and breathable cotton caps are perfect for newborn babies. Featuring a variety of prints on base colors, these caps will keep your little one comfortable and stylish. Designed for delicate newborn skin."
+      },
+      {
+        "id": 103,
+        "name": "Moving Ear Animal Hat",
+        "category": "winter",
+        "price": 500,
+        "discount": "50%",
+        "discounted_price": 0.5,
+        "size": "One Size (Kids/Adults)",
+        "color": ["pink ,", " purple ,", " Sky blue ,", " Baby Pink ,", " Rainbow"],
+        "item_code": "38610813737",
+        "imageUrl": "https://i.imgur.com/fSIoCif.png", 
+        "imageUrls": [
+          "https://i.imgur.com/fSIoCif.png",
+          "https://i.imgur.com/0tCtwEU.jpg",
+          "https://i.imgur.com/8Z4sUCg.jpg",
+          "https://i.imgur.com/Ogyzkct.jpg",
+          "https://i.imgur.com/ryyMZLV.jpg",
+          "https://i.imgur.com/ClGaH4a.jpg",
+          "https://i.imgur.com/zgpxHZO.jpg",
+          "https://i.imgur.com/RTFBCZe.jpg",
+          "https://i.imgur.com/OOOD0pe.jpg",
+          "https://i.imgur.com/0LxOjaw.jpg",
+          "https://i.imgur.com/Zngb5VV.jpg",
+          "https://i.imgur.com/Nsy1Fqn.jpg",
+          "https://i.imgur.com/nvc2xK3.jpg"
+        ],
+        "description": "Have some fun with this adorable moving ear animal hat! This plush hat features a cute animal design (likely a pig or elephant based on the image) and ears that move when you press the paws. A fun and playful accessory for kids and adults alike."
+      },
       {
         "id": 79,
         "name": "Checkered Blazer Set",
@@ -94,25 +390,6 @@
       },
 
       {
-        "id": 82,
-        "name": "Printed Blazer Set",
-        "category": "boys",
-        "price": 3099,
-        "discount": "80%",
-        "discounted_price": 0.201,
-        "size": 16,
-        "color": "white and blue",
-        "item_code": "3869974844",
-        "imageUrl": "https://i.imgur.com/FhZni6b.jpg",
-        "imageUrls": [
-          "https://i.imgur.com/FhZni6b.jpg",
-          "https://i.imgur.com/cFBTvCK.jpg",
-          "https://i.imgur.com/L9RDBWj.jpg",
-          "https://i.imgur.com/nnrQPiu.png"
-        ],
-        "description": "Elegant and Stylish: Printed Blazer Set for Kids\n\nMake your little one the star of the show with this elegant printed blazer set. The set includes a stylish blazer featuring a beautiful floral print and a pair of matching maroon pants. The blazer has a button closure and pockets, while the pants have an elastic waistband for a comfortable fit. Perfect for special occasions or formal events, this set is sure to impress.\n\n**Key Features:**\n* Elegant Design: Beautiful floral print for a sophisticated look.\n* Comfortable Fit: Elastic waistband and button closure for easy wear.\n* Versatile: Perfect for both formal and casual occasions.\n* High-Quality Material: Durable and long-lasting.\n\n**Care Instructions:**\n* Machine wash cold with like colors\n* Tumble dry low\n* Do not bleach\n\nLet your child shine with this elegant and stylish printed blazer set!"
-      },
-      {
         "id": 2,
         "name": "Full Work Koti, Kurta Pajama",
         "category": "boys",
@@ -152,29 +429,7 @@
         ],
         "description": "full work koti, kurta pajama for 1-1.5 years old color olive green fabric cotton mixed"
       },
-      
-      {
-        "id": 7,
-        "name": "Natu-Natu kid half-shirt set",
-        "category": "boys",
-        "price": 2149,
-        "discount": "70%",
-        "discounted_price": 0.30,
-        "size": "16",
-        "color": "Black & White",
-        "item_code": "38616550965",
-        "imageUrl": "https://i.imgur.com/dMOjuRp.jpg",
-        "imageUrls": [
-          "https://i.imgur.com/dMOjuRp.jpg",
-          "https://i.imgur.com/Uw5GlVk.jpg",
-          "https://i.imgur.com/9wJ3rHi.jpg",
-          "https://i.imgur.com/RGSqxm1.jpg",
-          "https://i.imgur.com/kISqLPn.jpg",
-          "https://i.imgur.com/3MRTOyv.jpg"
-        ],
-        "description": "Natu-Natu kid half-shirt set with white and black color combo"
-      }
-      ,
+     
       {
         "id": 8,
         "name": "Natu-Natu kid half-shirt set",
