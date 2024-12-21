@@ -32,7 +32,7 @@ function ProductDetail({ addToCart }) {
   }
 
   return (
-    <Container sx={{ mt: 4  }}>
+    <Container sx={{ mt: 4 ,mb: 8 }}>
       <Helmet>
         <title>Tiny Trendez-Product detail | Boys Ware | Girls fancy dresses | Kids Wear</title>
         <meta name="description" content="Discover our wide range of quality kids wear, boys fancy Kurta sets,t-shirt sets,shirt sets and girls fancy dresses." />

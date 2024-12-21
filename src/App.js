@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Routes, Route, Link } from 'react-router-dom';
 import Home from './pages/Home';
 import Boys from './pages/Boys';
@@ -10,17 +10,13 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
-import { BottomNavigation, BottomNavigationAction } from '@mui/material';
-// import IconButton from '@mui/material/IconButton';
-// import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
+import { BottomNavigation, BottomNavigationAction, IconButton, Badge } from '@mui/material';
 import BoyIcon from '@mui/icons-material/Boy';
 import GirlIcon from '@mui/icons-material/Girl';
 import HomeIcon from '@mui/icons-material/Home';
 import AcUnitIcon from '@mui/icons-material/AcUnit';
-//import { Button } from '@mui/material';
+import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import { pink } from '@mui/material/colors';
-
-
 
 const theme = createTheme({
   palette: {
@@ -31,12 +27,22 @@ const theme = createTheme({
       main: pink[300],
       secondary: pink[600],
     },
-
   },
 });
 
 function App() {
   const [cart, setCart] = useState([]);
+
+  useEffect(() => {
+    const savedCart = JSON.parse(localStorage.getItem('cart'));
+    if (savedCart) {
+      setCart(savedCart);
+    }
+  }, []);
+
+  useEffect(() => {
+    localStorage.setItem('cart', JSON.stringify(cart));
+  }, [cart]);
 
   const addToCart = (product) => {
     setCart((prevCart) => {
@@ -67,41 +73,46 @@ function App() {
     <ThemeProvider theme={theme}>
       <AppBar position="static" color="secondary">
         <Toolbar>
-          {/* Logo on the left */}
           <Link to="/" style={{ textDecoration: 'none', color: 'inherit' }}>
-              <img
-                src="https://i.imgur.com/MthySZa.png"
-                alt="logo"
-                width="40"
-                height="40"
-                style={{  marginBottom: '10px', paddingBottom: '10px',paddingTop: '10px',borderRadius: '30%', alignContent: 'center', justifyContent: 'center' }} 
-              />
-            </Link>
-            <Typography
-  variant="h6"  // Default variant
-  component="div"
-  sx={{
-    flexGrow: 1,
-    fontSize: {
-      xs: '2rem',  // Extra-small screens (mobile)
-      sm: '1.25rem',  // Small screens (tablet)
-      md: '1.5rem',  // Medium screens (small laptop)
-      lg: '2rem',  // Large screens (desktop)
-    },
-   
-    textAlign: 'center',
-    textJustifyContent: 'center',
-    justifyContent: 'center',
-    alignContent: 'center',
-    marginBottom: '10px',
-    fontFamily: 'cursive,Brush Script MT',
-  }}
->
-  Tiny Trendez
-</Typography>
- 
-         
-          
+            <img
+              src="https://i.imgur.com/MthySZa.png"
+              alt="logo"
+              width="40"
+              height="40"
+              style={{  marginBottom: '10px', paddingBottom: '10px',paddingTop: '10px',borderRadius: '30%', alignContent: 'center', justifyContent: 'center' }} 
+            />
+          </Link>
+          <Typography
+            variant="h6"
+            component="div"
+            sx={{
+              flexGrow: 1,
+              fontSize: {
+                xs: '2rem',
+                sm: '1.25rem',
+                md: '1.5rem',
+                lg: '2rem',
+              },
+              textAlign: 'center',
+              textJustifyContent: 'center',
+              justifyContent: 'center',
+              alignContent: 'center',
+              marginBottom: '10px',
+              fontFamily: 'cursive,Brush Script MT',
+            }}
+          >
+            Tiny Trendez
+          </Typography>
+          <IconButton
+            component={Link}
+            to="/cart"
+            color="inherit"
+            aria-label="cart"
+          >
+            <Badge badgeContent={cart.length} color="error">
+              <ShoppingCartIcon />
+            </Badge>
+          </IconButton>
         </Toolbar>
       </AppBar>
 
@@ -123,8 +134,7 @@ function App() {
           }
         />
       </Routes>
-       {/* Bottom Navigation */}
-       <BottomNavigation showLabels sx={{ position: 'sticky', bottom: 0, width: '100%' }}>
+      <BottomNavigation showLabels sx={{ position: 'fixed', bottom: 0, width: '100%' }}>
         <BottomNavigationAction
           label="Home"
           icon={<HomeIcon />}
@@ -149,7 +159,6 @@ function App() {
           component={Link}
           to="/winter-collection"
         />
-       
       </BottomNavigation>
     </ThemeProvider>
   );

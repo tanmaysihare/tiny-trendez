@@ -68,7 +68,7 @@ function Home({ addToCart }) {
       <Grid 
         container 
         spacing={2} 
-        sx={{ padding: 2, backgroundColor: 'secondary.main' }}
+        sx={{ padding: 2,marginBottom: 6, backgroundColor: 'secondary.main' }}
         justifyContent="center"
       >
         {products.map(product => (
