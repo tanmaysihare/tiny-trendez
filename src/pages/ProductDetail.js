@@ -1,14 +1,15 @@
 import { useParams } from 'react-router-dom';
 import { useState, useEffect } from 'react';
-import { Typography, Container, Button } from '@mui/material';
+import { Typography, Container, Button, Box, Grid, Paper, Divider } from '@mui/material';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import SwiperCore from 'swiper';
 import { Navigation, Pagination } from 'swiper/modules';
-import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import { Helmet } from 'react-helmet-async';
+import 'react-medium-image-zoom/dist/styles.css';
+import Zoom from 'react-medium-image-zoom';
 // Initialize Swiper modules
 SwiperCore.use([Navigation, Pagination]);
 
@@ -30,12 +31,10 @@ function ProductDetail({ addToCart }) {
     return <Typography>Loading...</Typography>;
   }
 
-  const whatsappLink = `https://wa.me/7000917851?text=I'm%20interested%20in%20Id%20No.%20${product.id}%20${product.name}%20(${product.size}).%20MRP:%20₹${product.price}%20Sale%20Price:%20₹${(product.price * product.discounted_price).toFixed(2)}`;
-
   return (
-    <Container sx={{ mt: 2 }}>
-        <Helmet>
-        <title>Tiny Trendez-Product detail  | Boys Ware | Girls fancy dresses | Kids Wear</title>
+    <Container sx={{ mt: 4  }}>
+      <Helmet>
+        <title>Tiny Trendez-Product detail | Boys Ware | Girls fancy dresses | Kids Wear</title>
         <meta name="description" content="Discover our wide range of quality kids wear, boys fancy Kurta sets,t-shirt sets,shirt sets and girls fancy dresses." />
         <script type="application/ld+json">
           {`
@@ -55,43 +54,48 @@ function ProductDetail({ addToCart }) {
           `}
         </script>
       </Helmet>
-      {/* Swiper Carousel for images */}
-      <Swiper navigation pagination={{ clickable: true }} style={{ width: '100%', height: '400px' }}>
-        {product.imageUrls.map((url, index) => (
-          <SwiperSlide key={index}>
-            <img src={url} alt={`${product.name} ${index}`} style={{ width: '100%', height: '100%', objectPosition: 'center', objectFit: 'contain' }} />
-          </SwiperSlide>
-        ))}
-      </Swiper>
-
-      <Typography variant="h3" color="primary">{product.name}</Typography>
-      <Typography variant="h6" color="secondary">
-        Sale Price: ₹{(product.price * product.discounted_price).toFixed(2)}/- <br />
-        MRP: ₹{product.price}/- {product.discount} OFF ,
-        
-      </Typography>
-      <Typography variant="h6" color="primary" sx={{ mt: 2 }}>
-       Id No:- {product.id}<br/> Size {product.size}<br/> Color: {product.color}
-      </Typography>
-      <div>
-      {product.description.split('\n\n').map((paragraph, index) => (
-          <Typography key={index} variant="body1"  color="secondary.secondary" sx={{ mb: 4, mt: 2,textTransform: 'uppercase' }}>
-            {paragraph}
-          </Typography>
-        ))}
-      </div>
-      {/* <Typography variant="h5" color="secondary.secondary" sx={{ mb: 4, mt: 2,textTransform: 'uppercase' }}>{product.description}</Typography> */}
-      <Button
-        variant="contained"
-        color="success"
-        href={whatsappLink}
-        target="_blank"
-        rel="noopener noreferrer"
-        sx={{ mt: 2,mb: 4 }}
-      > <WhatsAppIcon sx={{ mr: 2 }} />
-        Order on WhatsApp
-       
-      </Button>
+      <Grid container spacing={4}>
+        <Grid item xs={12} md={6}>
+          {/* Swiper Carousel for images */}
+          <Swiper navigation pagination={{ clickable: true }} style={{ width: '100%', height: '400px', borderRadius: '8px', overflow: 'hidden' }}>
+            {product.imageUrls.map((url, index) => (
+              <SwiperSlide key={index}>
+                <Zoom>
+                  <img src={url} alt={`${product.name} ${index}`} style={{ width: '100%', height: '100%', objectPosition: 'center', objectFit: 'contain' }} />
+                </Zoom>
+              </SwiperSlide>
+            ))}
+          </Swiper>
+        </Grid>
+        <Grid item xs={12} md={6} >
+          <Paper elevation={3} sx={{ padding: 3, borderRadius: '8px',backgroundColor: '#f5f5f5' }}>
+            <Typography variant="h3" color="primary" gutterBottom>{product.name}</Typography>
+            <Divider sx={{ my: 2 }} />
+            <Typography variant="h6" color="secondary" gutterBottom>
+              Sale Price: ₹{(product.price * product.discounted_price).toFixed(2)}/- <br />
+              MRP: ₹{product.price}/- {product.discount} OFF
+            </Typography>
+            <Typography variant="h6" color="primary" sx={{ mt: 2 }}>
+              Id No:- {product.id}<br/> Size: {product.size}<br/> Color: {product.color}
+            </Typography>
+            <Box sx={{ mt: 2 }}>
+              {product.description.split('\n\n').map((paragraph, index) => (
+                <Typography key={index} variant="body1" color="textSecondary" sx={{ mb: 2 }}>
+                  {paragraph}
+                </Typography>
+              ))}
+            </Box>
+            <Button
+              variant="contained"
+              color="primary"
+              onClick={() => addToCart(product)}
+              sx={{ mt: 2 }}
+            >
+              Add to Cart
+            </Button>
+          </Paper>
+        </Grid>
+      </Grid>
     </Container>
   );
 }
